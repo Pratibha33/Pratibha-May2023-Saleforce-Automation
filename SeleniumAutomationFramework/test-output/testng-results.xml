@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="21" total="22" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-06-18T19:53:15 PDT" name="Default suite" finished-at="2023-06-18T19:54:02 PDT" duration-ms="46741">
+    <groups>
+    </groups>
+    <test started-at="2023-06-18T19:53:15 PDT" name="Default test" finished-at="2023-06-18T19:54:02 PDT" duration-ms="46741">
+      <class name="com.automation.pages.HomePage">
+        <test-method is-config="true" signature="setUpBeforeTest()[pri:0, instance:com.automation.pages.HomePage@53ce1329]" started-at="2023-06-18T19:53:15 PDT" name="setUpBeforeTest" finished-at="2023-06-18T19:53:16 PDT" duration-ms="599" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUpBeforeTest -->
+        <test-method is-config="true" signature="setUpBeforeTestMethod(java.lang.String)[pri:0, instance:com.automation.pages.HomePage@53ce1329]" started-at="2023-06-18T19:53:16 PDT" name="setUpBeforeTestMethod" finished-at="2023-06-18T19:53:18 PDT" duration-ms="2152" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUpBeforeTestMethod -->
+        <test-method signature="blocking_Weekly_Recurrence_Event_Calender_TC37()[pri:0, instance:com.automation.pages.HomePage@53ce1329]" started-at="2023-06-18T19:53:18 PDT" name="blocking_Weekly_Recurrence_Event_Calender_TC37" finished-at="2023-06-18T19:54:02 PDT" duration-ms="43791" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- blocking_Weekly_Recurrence_Event_Calender_TC37 -->
+        <test-method is-config="true" signature="tearDownAfterTestMethod()[pri:0, instance:com.automation.pages.HomePage@53ce1329]" started-at="2023-06-18T19:54:02 PDT" name="tearDownAfterTestMethod" finished-at="2023-06-18T19:54:02 PDT" duration-ms="159" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDownAfterTestMethod -->
+      </class> <!-- com.automation.pages.HomePage -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

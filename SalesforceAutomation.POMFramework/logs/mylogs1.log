@@ -1,0 +1,515 @@
+20230612 08:42:52 INFO  [main] base.BaseTest BaseTest.java87 - Chrome browser opened
+20230612 15:24:49 INFO  [main] base.BaseTest BaseTest.java66 - Chrome browser opened
+20230612 15:32:43 INFO  [main] base.BaseTest BaseTest.java66 - Chrome browser opened
+20230612 15:32:50 INFO  [main] tests.LoginTest LoginTest.java67 - Login to salesforce successful, On home page now
+20230612 15:32:50 INFO  [main] tests.HomePageTest HomePageTest.java25 - On Home Page
+20230612 15:33:59 INFO  [main] base.BaseTest BaseTest.java66 - Chrome browser opened
+20230612 15:34:06 INFO  [main] tests.LoginTest LoginTest.java67 - Login to salesforce successful, On home page now
+20230612 15:34:06 INFO  [main] tests.HomePageTest HomePageTest.java25 - On Home Page
+20230612 15:35:29 INFO  [main] base.BaseTest BaseTest.java66 - Chrome browser opened
+20230612 15:35:35 INFO  [main] tests.LoginTest LoginTest.java67 - Login to salesforce successful, On home page now
+20230612 15:35:35 INFO  [main] tests.HomePageTest HomePageTest.java25 - On Home Page
+20230612 15:38:56 INFO  [main] base.BaseTest BaseTest.java66 - Chrome browser opened
+20230612 15:39:02 INFO  [main] tests.LoginTest LoginTest.java67 - Login to salesforce successful, On home page now
+20230612 15:39:02 INFO  [main] tests.HomePageTest HomePageTest.java25 - On Home Page
+20230612 15:39:37 INFO  [main] pages.BasePage BasePage.java118 - Element not clickable
+20230612 15:40:37 INFO  [main] base.BaseTest BaseTest.java66 - Chrome browser opened
+20230612 15:40:43 INFO  [main] tests.LoginTest LoginTest.java67 - Login to salesforce successful, On home page now
+20230612 15:40:43 INFO  [main] tests.HomePageTest HomePageTest.java25 - On Home Page
+20230612 15:48:30 INFO  [main] base.BaseTest BaseTest.java66 - Chrome browser opened
+20230612 15:48:36 INFO  [main] tests.LoginTest LoginTest.java67 - Login to salesforce successful, On home page now
+20230612 15:48:36 INFO  [main] tests.HomePageTest HomePageTest.java25 - On Home Page
+20230612 15:56:57 INFO  [main] base.BaseTest BaseTest.java66 - Chrome browser opened
+20230612 15:57:03 INFO  [main] tests.LoginTest LoginTest.java67 - Login to salesforce successful, On home page now
+20230612 15:57:03 INFO  [main] tests.HomePageTest HomePageTest.java25 - On Home Page
+20230612 15:57:38 INFO  [main] base.BaseTest BaseTest.java66 - Chrome browser opened
+20230612 15:57:43 INFO  [main] tests.LoginTest LoginTest.java67 - Login to salesforce successful, On home page now
+20230612 15:57:43 INFO  [main] tests.HomePageTest HomePageTest.java25 - On Home Page
+20230612 15:59:51 INFO  [main] base.BaseTest BaseTest.java66 - Chrome browser opened
+20230612 15:59:57 INFO  [main] tests.LoginTest LoginTest.java67 - Login to salesforce successful, On home page now
+20230612 15:59:57 INFO  [main] tests.HomePageTest HomePageTest.java25 - On Home Page
+20230612 16:07:55 INFO  [main] base.BaseTest BaseTest.java66 - Chrome browser opened
+20230612 16:08:02 INFO  [main] tests.LoginTest LoginTest.java67 - Login to salesforce successful, On home page now
+20230612 16:08:02 INFO  [main] tests.HomePageTest HomePageTest.java25 - On Home Page
+20230612 16:09:17 INFO  [main] base.BaseTest BaseTest.java66 - Chrome browser opened
+20230612 16:09:24 INFO  [main] tests.LoginTest LoginTest.java67 - Login to salesforce successful, On home page now
+20230612 16:09:24 INFO  [main] tests.HomePageTest HomePageTest.java25 - On Home Page
+20230612 16:11:24 INFO  [main] base.BaseTest BaseTest.java66 - Chrome browser opened
+20230612 16:11:31 INFO  [main] tests.LoginTest LoginTest.java67 - Login to salesforce successful, On home page now
+20230612 16:11:31 INFO  [main] tests.HomePageTest HomePageTest.java25 - On Home Page
+20230612 16:11:39 INFO  [main] tests.HomePageTest HomePageTest.java76 - Post shared
+20230612 16:11:39 INFO  [main] tests.HomePageTest HomePageTest.java85 - File uploaded
+20230612 18:43:03 INFO  [main] base.BaseTest BaseTest.java66 - Chrome browser opened
+20230612 18:43:09 INFO  [main] tests.LoginTest LoginTest.java67 - Login to salesforce successful, On home page now
+20230612 18:43:09 INFO  [main] tests.HomePageTest HomePageTest.java25 - On Home Page
+20230612 18:44:57 INFO  [main] base.BaseTest BaseTest.java66 - Chrome browser opened
+20230612 18:45:04 INFO  [main] tests.LoginTest LoginTest.java67 - Login to salesforce successful, On home page now
+20230612 18:45:04 INFO  [main] tests.HomePageTest HomePageTest.java25 - On Home Page
+20230612 18:45:51 INFO  [main] base.BaseTest BaseTest.java66 - Chrome browser opened
+20230612 18:45:56 INFO  [main] tests.LoginTest LoginTest.java67 - Login to salesforce successful, On home page now
+20230612 18:45:56 INFO  [main] tests.HomePageTest HomePageTest.java25 - On Home Page
+20230612 18:45:57 INFO  [main] pages.BasePage BasePage.java118 - Element not clickable
+20230612 18:48:49 INFO  [main] base.BaseTest BaseTest.java66 - Chrome browser opened
+20230612 18:49:21 INFO  [main] base.BaseTest BaseTest.java66 - Chrome browser opened
+20230612 18:49:28 INFO  [main] tests.LoginTest LoginTest.java67 - Login to salesforce successful, On home page now
+20230612 18:49:28 INFO  [main] tests.HomePageTest HomePageTest.java25 - On Home Page
+20230612 18:49:29 INFO  [main] pages.BasePage BasePage.java118 - Element not clickable
+20230612 18:49:29 INFO  [main] pages.BasePage BasePage.java118 - Element not clickable
+20230612 18:53:37 INFO  [main] base.BaseTest BaseTest.java66 - Chrome browser opened
+20230612 18:53:43 INFO  [main] tests.LoginTest LoginTest.java67 - Login to salesforce successful, On home page now
+20230612 18:53:43 INFO  [main] tests.HomePageTest HomePageTest.java25 - On Home Page
+20230612 18:53:44 INFO  [main] pages.BasePage BasePage.java118 - Element not clickable
+20230612 19:00:11 INFO  [main] base.BaseTest BaseTest.java66 - Chrome browser opened
+20230612 19:00:26 INFO  [main] tests.LoginTest LoginTest.java67 - Login to salesforce successful, On home page now
+20230612 19:00:26 INFO  [main] tests.HomePageTest HomePageTest.java25 - On Home Page
+20230612 19:00:27 INFO  [main] pages.BasePage BasePage.java118 - Element not clickable
+20230612 19:00:57 INFO  [main] base.BaseTest BaseTest.java66 - Chrome browser opened
+20230612 19:01:10 INFO  [main] tests.LoginTest LoginTest.java67 - Login to salesforce successful, On home page now
+20230612 19:01:10 INFO  [main] tests.HomePageTest HomePageTest.java25 - On Home Page
+20230612 19:01:10 INFO  [main] pages.BasePage BasePage.java118 - Element not clickable
+20230612 19:08:47 INFO  [main] base.BaseTest BaseTest.java66 - Chrome browser opened
+20230612 19:08:58 INFO  [main] tests.LoginTest LoginTest.java67 - Login to salesforce successful, On home page now
+20230612 19:08:58 INFO  [main] tests.HomePageTest HomePageTest.java25 - On Home Page
+20230612 19:08:59 INFO  [main] pages.BasePage BasePage.java118 - Element not clickable
+20230612 19:10:47 INFO  [main] base.BaseTest BaseTest.java66 - Chrome browser opened
+20230612 19:11:03 INFO  [main] tests.LoginTest LoginTest.java67 - Login to salesforce successful, On home page now
+20230612 19:11:03 INFO  [main] tests.HomePageTest HomePageTest.java25 - On Home Page
+20230612 19:13:42 INFO  [main] base.BaseTest BaseTest.java66 - Chrome browser opened
+20230612 19:13:57 INFO  [main] tests.LoginTest LoginTest.java67 - Login to salesforce successful, On home page now
+20230612 19:13:57 INFO  [main] tests.HomePageTest HomePageTest.java25 - On Home Page
+20230612 19:14:54 INFO  [main] base.BaseTest BaseTest.java66 - Chrome browser opened
+20230612 19:15:08 INFO  [main] tests.LoginTest LoginTest.java67 - Login to salesforce successful, On home page now
+20230612 19:15:08 INFO  [main] tests.HomePageTest HomePageTest.java25 - On Home Page
+20230612 19:23:50 INFO  [main] base.BaseTest BaseTest.java66 - Chrome browser opened
+20230612 19:23:59 INFO  [main] tests.LoginTest LoginTest.java67 - Login to salesforce successful, On home page now
+20230612 19:23:59 INFO  [main] tests.HomePageTest HomePageTest.java25 - On Home Page
+20230612 19:25:04 INFO  [main] base.BaseTest BaseTest.java66 - Chrome browser opened
+20230612 19:25:11 INFO  [main] tests.LoginTest LoginTest.java67 - Login to salesforce successful, On home page now
+20230612 19:25:11 INFO  [main] tests.HomePageTest HomePageTest.java25 - On Home Page
+20230612 19:31:54 INFO  [main] base.BaseTest BaseTest.java66 - Chrome browser opened
+20230612 19:32:02 INFO  [main] tests.LoginTest LoginTest.java67 - Login to salesforce successful, On home page now
+20230612 19:32:02 INFO  [main] tests.HomePageTest HomePageTest.java25 - On Home Page
+20230612 19:34:29 INFO  [main] base.BaseTest BaseTest.java66 - Chrome browser opened
+20230612 19:34:37 INFO  [main] tests.LoginTest LoginTest.java67 - Login to salesforce successful, On home page now
+20230612 19:34:37 INFO  [main] tests.HomePageTest HomePageTest.java25 - On Home Page
+20230612 19:34:42 INFO  [main] pages.BasePage BasePage.java118 - Element not clickable
+20230612 19:40:27 INFO  [main] base.BaseTest BaseTest.java66 - Chrome browser opened
+20230612 19:40:34 INFO  [main] tests.LoginTest LoginTest.java67 - Login to salesforce successful, On home page now
+20230612 19:40:34 INFO  [main] tests.HomePageTest HomePageTest.java25 - On Home Page
+20230612 19:40:41 INFO  [main] pages.BasePage BasePage.java118 - Element not clickable
+20230612 19:47:06 INFO  [main] base.BaseTest BaseTest.java66 - Chrome browser opened
+20230612 19:47:13 INFO  [main] tests.LoginTest LoginTest.java67 - Login to salesforce successful, On home page now
+20230612 19:47:13 INFO  [main] tests.HomePageTest HomePageTest.java25 - On Home Page
+20230612 19:47:20 INFO  [main] pages.BasePage BasePage.java118 - Element not clickable
+20230612 19:49:29 INFO  [main] base.BaseTest BaseTest.java66 - Chrome browser opened
+20230612 19:49:35 INFO  [main] tests.LoginTest LoginTest.java67 - Login to salesforce successful, On home page now
+20230612 19:49:35 INFO  [main] tests.HomePageTest HomePageTest.java25 - On Home Page
+20230612 19:49:42 INFO  [main] pages.BasePage BasePage.java118 - Element not clickable
+20230612 19:50:30 INFO  [main] base.BaseTest BaseTest.java66 - Chrome browser opened
+20230612 19:50:36 INFO  [main] tests.LoginTest LoginTest.java67 - Login to salesforce successful, On home page now
+20230612 19:50:36 INFO  [main] tests.HomePageTest HomePageTest.java25 - On Home Page
+20230612 19:51:33 INFO  [main] base.BaseTest BaseTest.java66 - Chrome browser opened
+20230612 19:51:39 INFO  [main] tests.LoginTest LoginTest.java67 - Login to salesforce successful, On home page now
+20230612 19:51:39 INFO  [main] tests.HomePageTest HomePageTest.java25 - On Home Page
+20230612 21:46:51 INFO  [main] base.BaseTest BaseTest.java66 - Chrome browser opened
+20230612 21:46:57 INFO  [main] tests.LoginTest LoginTest.java67 - Login to salesforce successful, On home page now
+20230612 21:46:57 INFO  [main] tests.HomePageTest HomePageTest.java25 - On Home Page
+20230612 22:03:53 INFO  [main] base.BaseTest BaseTest.java66 - Chrome browser opened
+20230612 22:03:58 INFO  [main] tests.LoginTest LoginTest.java67 - Login to salesforce successful, On home page now
+20230612 22:03:58 INFO  [main] tests.HomePageTest HomePageTest.java27 - On Home Page
+20230612 22:38:27 INFO  [main] base.BaseTest BaseTest.java66 - Chrome browser opened
+20230612 22:38:32 INFO  [main] tests.LoginTest LoginTest.java67 - Login to salesforce successful, On home page now
+20230612 22:38:32 INFO  [main] tests.HomePageTest HomePageTest.java28 - On Home Page
+20230612 22:38:34 INFO  [main] pages.BasePage BasePage.java118 - Element not clickable
+20230612 22:39:20 INFO  [main] base.BaseTest BaseTest.java66 - Chrome browser opened
+20230612 22:39:26 INFO  [main] tests.LoginTest LoginTest.java67 - Login to salesforce successful, On home page now
+20230612 22:39:26 INFO  [main] tests.HomePageTest HomePageTest.java28 - On Home Page
+20230612 22:39:27 INFO  [main] pages.BasePage BasePage.java118 - Element not clickable
+20230612 22:40:11 INFO  [main] base.BaseTest BaseTest.java66 - Chrome browser opened
+20230612 22:40:17 INFO  [main] tests.LoginTest LoginTest.java67 - Login to salesforce successful, On home page now
+20230612 22:40:17 INFO  [main] tests.HomePageTest HomePageTest.java28 - On Home Page
+20230612 22:40:18 INFO  [main] pages.BasePage BasePage.java118 - Element not clickable
+20230612 22:40:19 INFO  [main] base.BaseTest BaseTest.java66 - Chrome browser opened
+20230612 22:40:28 INFO  [main] tests.LoginTest LoginTest.java67 - Login to salesforce successful, On home page now
+20230612 22:40:28 INFO  [main] tests.HomePageTest HomePageTest.java28 - On Home Page
+20230612 22:40:40 INFO  [main] tests.HomePageTest HomePageTest.java79 - Post shared
+20230612 22:40:40 INFO  [main] tests.HomePageTest HomePageTest.java87 - File uploaded
+20230612 22:40:43 INFO  [main] base.BaseTest BaseTest.java66 - Chrome browser opened
+20230612 22:40:48 INFO  [main] tests.LoginTest LoginTest.java67 - Login to salesforce successful, On home page now
+20230612 22:40:48 INFO  [main] tests.HomePageTest HomePageTest.java28 - On Home Page
+20230612 22:40:48 INFO  [main] tests.HomePageTest HomePageTest.java52 - Test Case TC_05 passed
+20230612 22:40:49 INFO  [main] base.BaseTest BaseTest.java66 - Chrome browser opened
+20230612 22:40:54 INFO  [main] tests.LoginTest LoginTest.java67 - Login to salesforce successful, On home page now
+20230612 22:40:54 INFO  [main] tests.HomePageTest HomePageTest.java28 - On Home Page
+20230612 22:40:55 INFO  [main] base.BaseTest BaseTest.java66 - Chrome browser opened
+20230612 22:41:00 INFO  [main] tests.LoginTest LoginTest.java67 - Login to salesforce successful, On home page now
+20230612 22:41:00 INFO  [main] tests.HomePageTest HomePageTest.java28 - On Home Page
+20230612 22:41:01 INFO  [main] base.BaseTest BaseTest.java66 - Chrome browser opened
+20230612 22:41:08 INFO  [main] tests.LoginTest LoginTest.java67 - Login to salesforce successful, On home page now
+20230612 22:41:08 INFO  [main] tests.HomePageTest HomePageTest.java28 - On Home Page
+20230612 22:45:43 INFO  [main] base.BaseTest BaseTest.java66 - Chrome browser opened
+20230612 22:45:49 INFO  [main] tests.LoginTest LoginTest.java67 - Login to salesforce successful, On home page now
+20230612 22:45:49 INFO  [main] tests.HomePageTest HomePageTest.java28 - On Home Page
+20230612 22:45:52 INFO  [main] pages.BasePage BasePage.java118 - Element not clickable
+20230612 22:48:54 INFO  [main] base.BaseTest BaseTest.java66 - Chrome browser opened
+20230612 22:49:00 INFO  [main] tests.LoginTest LoginTest.java67 - Login to salesforce successful, On home page now
+20230612 22:49:00 INFO  [main] tests.HomePageTest HomePageTest.java28 - On Home Page
+20230612 22:49:01 INFO  [main] pages.BasePage BasePage.java118 - Element not clickable
+20230612 22:50:59 INFO  [main] base.BaseTest BaseTest.java66 - Chrome browser opened
+20230612 22:51:05 INFO  [main] tests.LoginTest LoginTest.java67 - Login to salesforce successful, On home page now
+20230612 22:51:05 INFO  [main] tests.HomePageTest HomePageTest.java28 - On Home Page
+20230612 22:51:07 INFO  [main] pages.BasePage BasePage.java118 - Element not clickable
+20230612 22:56:24 INFO  [main] base.BaseTest BaseTest.java66 - Chrome browser opened
+20230612 22:56:29 INFO  [main] tests.LoginTest LoginTest.java67 - Login to salesforce successful, On home page now
+20230612 22:56:29 INFO  [main] tests.HomePageTest HomePageTest.java28 - On Home Page
+20230612 22:56:31 INFO  [main] pages.BasePage BasePage.java118 - Element not clickable
+20230612 23:00:21 INFO  [main] base.BaseTest BaseTest.java66 - Chrome browser opened
+20230612 23:00:27 INFO  [main] tests.LoginTest LoginTest.java67 - Login to salesforce successful, On home page now
+20230612 23:00:27 INFO  [main] tests.HomePageTest HomePageTest.java28 - On Home Page
+20230612 23:00:28 INFO  [main] pages.BasePage BasePage.java118 - Element not clickable
+20230612 23:09:56 INFO  [main] base.BaseTest BaseTest.java66 - Chrome browser opened
+20230612 23:10:02 INFO  [main] tests.LoginTest LoginTest.java67 - Login to salesforce successful, On home page now
+20230612 23:10:02 INFO  [main] tests.HomePageTest HomePageTest.java28 - On Home Page
+20230612 23:10:02 INFO  [main] pages.BasePage BasePage.java118 - Element not clickable
+20230612 23:11:04 INFO  [main] base.BaseTest BaseTest.java66 - Chrome browser opened
+20230612 23:11:09 INFO  [main] tests.LoginTest LoginTest.java67 - Login to salesforce successful, On home page now
+20230612 23:11:09 INFO  [main] tests.HomePageTest HomePageTest.java28 - On Home Page
+20230612 23:11:41 INFO  [main] base.BaseTest BaseTest.java66 - Chrome browser opened
+20230612 23:11:47 INFO  [main] tests.LoginTest LoginTest.java67 - Login to salesforce successful, On home page now
+20230612 23:11:47 INFO  [main] tests.HomePageTest HomePageTest.java28 - On Home Page
+20230612 23:12:33 INFO  [main] base.BaseTest BaseTest.java66 - Chrome browser opened
+20230612 23:12:39 INFO  [main] tests.LoginTest LoginTest.java67 - Login to salesforce successful, On home page now
+20230612 23:12:39 INFO  [main] tests.HomePageTest HomePageTest.java28 - On Home Page
+20230612 23:12:53 INFO  [main] base.BaseTest BaseTest.java66 - Chrome browser opened
+20230612 23:12:59 INFO  [main] tests.LoginTest LoginTest.java67 - Login to salesforce successful, On home page now
+20230612 23:12:59 INFO  [main] tests.HomePageTest HomePageTest.java28 - On Home Page
+20230612 23:13:38 INFO  [main] base.BaseTest BaseTest.java66 - Chrome browser opened
+20230612 23:13:44 INFO  [main] tests.LoginTest LoginTest.java67 - Login to salesforce successful, On home page now
+20230612 23:13:44 INFO  [main] tests.HomePageTest HomePageTest.java28 - On Home Page
+20230612 23:14:06 INFO  [main] base.BaseTest BaseTest.java66 - Chrome browser opened
+20230612 23:14:37 INFO  [main] base.BaseTest BaseTest.java66 - Chrome browser opened
+20230612 23:14:43 INFO  [main] tests.LoginTest LoginTest.java67 - Login to salesforce successful, On home page now
+20230612 23:14:43 INFO  [main] tests.HomePageTest HomePageTest.java28 - On Home Page
+20230612 23:18:04 INFO  [main] base.BaseTest BaseTest.java66 - Chrome browser opened
+20230612 23:18:11 INFO  [main] tests.LoginTest LoginTest.java67 - Login to salesforce successful, On home page now
+20230612 23:18:11 INFO  [main] tests.HomePageTest HomePageTest.java28 - On Home Page
+20230612 23:19:53 INFO  [main] base.BaseTest BaseTest.java66 - Chrome browser opened
+20230612 23:19:59 INFO  [main] tests.LoginTest LoginTest.java67 - Login to salesforce successful, On home page now
+20230612 23:19:59 INFO  [main] tests.HomePageTest HomePageTest.java28 - On Home Page
+20230612 23:20:13 INFO  [main] base.BaseTest BaseTest.java66 - Chrome browser opened
+20230612 23:20:19 INFO  [main] tests.LoginTest LoginTest.java67 - Login to salesforce successful, On home page now
+20230612 23:20:19 INFO  [main] tests.HomePageTest HomePageTest.java28 - On Home Page
+20230612 23:20:30 INFO  [main] pages.BasePage BasePage.java118 - Element not clickable
+20230612 23:22:07 INFO  [main] base.BaseTest BaseTest.java66 - Chrome browser opened
+20230612 23:22:13 INFO  [main] tests.LoginTest LoginTest.java67 - Login to salesforce successful, On home page now
+20230612 23:22:13 INFO  [main] tests.HomePageTest HomePageTest.java28 - On Home Page
+20230612 23:29:33 INFO  [main] base.BaseTest BaseTest.java66 - Chrome browser opened
+20230612 23:29:39 INFO  [main] tests.LoginTest LoginTest.java67 - Login to salesforce successful, On home page now
+20230612 23:29:39 INFO  [main] tests.HomePageTest HomePageTest.java28 - On Home Page
+20230612 23:29:53 INFO  [main] pages.BasePage BasePage.java118 - Element not clickable
+20230612 23:30:07 INFO  [main] base.BaseTest BaseTest.java66 - Chrome browser opened
+20230612 23:30:13 INFO  [main] tests.LoginTest LoginTest.java67 - Login to salesforce successful, On home page now
+20230612 23:30:13 INFO  [main] tests.HomePageTest HomePageTest.java28 - On Home Page
+20230612 23:30:26 INFO  [main] pages.BasePage BasePage.java118 - Element not clickable
+20230612 23:30:34 INFO  [main] base.BaseTest BaseTest.java66 - Chrome browser opened
+20230612 23:30:40 INFO  [main] tests.LoginTest LoginTest.java67 - Login to salesforce successful, On home page now
+20230612 23:30:40 INFO  [main] tests.HomePageTest HomePageTest.java28 - On Home Page
+20230612 23:30:53 INFO  [main] pages.BasePage BasePage.java118 - Element not clickable
+20230612 23:31:26 INFO  [main] base.BaseTest BaseTest.java66 - Chrome browser opened
+20230612 23:32:06 INFO  [main] base.BaseTest BaseTest.java66 - Chrome browser opened
+20230612 23:32:11 INFO  [main] tests.LoginTest LoginTest.java67 - Login to salesforce successful, On home page now
+20230612 23:32:11 INFO  [main] tests.HomePageTest HomePageTest.java28 - On Home Page
+20230612 23:35:15 INFO  [main] base.BaseTest BaseTest.java66 - Chrome browser opened
+20230612 23:35:22 INFO  [main] tests.LoginTest LoginTest.java67 - Login to salesforce successful, On home page now
+20230612 23:35:22 INFO  [main] tests.HomePageTest HomePageTest.java28 - On Home Page
+20230612 23:36:15 INFO  [main] base.BaseTest BaseTest.java66 - Chrome browser opened
+20230612 23:36:20 INFO  [main] tests.LoginTest LoginTest.java67 - Login to salesforce successful, On home page now
+20230612 23:36:20 INFO  [main] tests.HomePageTest HomePageTest.java28 - On Home Page
+20230612 23:36:52 INFO  [main] base.BaseTest BaseTest.java66 - Chrome browser opened
+20230612 23:36:57 INFO  [main] tests.LoginTest LoginTest.java67 - Login to salesforce successful, On home page now
+20230612 23:36:57 INFO  [main] tests.HomePageTest HomePageTest.java28 - On Home Page
+20230612 23:37:21 INFO  [main] base.BaseTest BaseTest.java66 - Chrome browser opened
+20230612 23:37:26 INFO  [main] tests.LoginTest LoginTest.java67 - Login to salesforce successful, On home page now
+20230612 23:37:26 INFO  [main] tests.HomePageTest HomePageTest.java28 - On Home Page
+20230612 23:39:20 INFO  [main] base.BaseTest BaseTest.java66 - Chrome browser opened
+20230612 23:39:26 INFO  [main] tests.LoginTest LoginTest.java67 - Login to salesforce successful, On home page now
+20230612 23:39:26 INFO  [main] tests.HomePageTest HomePageTest.java28 - On Home Page
+20230613 18:24:00 INFO  [main] base.BaseTest BaseTest.java66 - Chrome browser opened
+20230613 18:24:09 INFO  [main] tests.LoginTest LoginTest.java67 - Login to salesforce successful, On home page now
+20230613 18:24:09 INFO  [main] tests.HomePageTest HomePageTest.java29 - On Home Page
+20230613 18:24:16 INFO  [main] pages.BasePage BasePage.java118 - Element not clickable
+20230613 18:25:43 INFO  [main] base.BaseTest BaseTest.java66 - Chrome browser opened
+20230613 18:25:49 INFO  [main] tests.LoginTest LoginTest.java67 - Login to salesforce successful, On home page now
+20230613 18:25:49 INFO  [main] tests.HomePageTest HomePageTest.java29 - On Home Page
+20230613 18:26:54 INFO  [main] base.BaseTest BaseTest.java66 - Chrome browser opened
+20230613 18:27:01 INFO  [main] tests.LoginTest LoginTest.java67 - Login to salesforce successful, On home page now
+20230613 18:27:01 INFO  [main] tests.HomePageTest HomePageTest.java29 - On Home Page
+20230613 18:33:23 INFO  [main] base.BaseTest BaseTest.java66 - Chrome browser opened
+20230613 18:33:30 INFO  [main] tests.LoginTest LoginTest.java67 - Login to salesforce successful, On home page now
+20230613 18:33:30 INFO  [main] tests.HomePageTest HomePageTest.java29 - On Home Page
+20230613 19:00:27 INFO  [main] base.BaseTest BaseTest.java66 - Chrome browser opened
+20230613 19:00:35 INFO  [main] tests.LoginTest LoginTest.java67 - Login to salesforce successful, On home page now
+20230613 19:00:35 INFO  [main] tests.HomePageTest HomePageTest.java29 - On Home Page
+20230613 19:00:42 INFO  [main] pages.BasePage BasePage.java118 - Element not clickable
+20230613 19:03:12 INFO  [main] base.BaseTest BaseTest.java66 - Chrome browser opened
+20230613 19:03:18 INFO  [main] tests.LoginTest LoginTest.java67 - Login to salesforce successful, On home page now
+20230613 19:03:18 INFO  [main] tests.HomePageTest HomePageTest.java29 - On Home Page
+20230613 19:03:26 INFO  [main] pages.BasePage BasePage.java118 - Element not clickable
+20230613 19:05:13 INFO  [main] base.BaseTest BaseTest.java66 - Chrome browser opened
+20230613 19:05:20 INFO  [main] tests.LoginTest LoginTest.java67 - Login to salesforce successful, On home page now
+20230613 19:05:20 INFO  [main] tests.HomePageTest HomePageTest.java29 - On Home Page
+20230613 21:39:58 INFO  [main] base.BaseTest BaseTest.java66 - Chrome browser opened
+20230613 21:40:08 INFO  [main] tests.LoginTest LoginTest.java67 - Login to salesforce successful, On home page now
+20230613 21:40:08 INFO  [main] tests.HomePageTest HomePageTest.java29 - On Home Page
+20230613 21:41:00 INFO  [main] base.BaseTest BaseTest.java66 - Chrome browser opened
+20230613 21:41:09 INFO  [main] tests.LoginTest LoginTest.java67 - Login to salesforce successful, On home page now
+20230613 21:41:09 INFO  [main] tests.HomePageTest HomePageTest.java29 - On Home Page
+20230613 21:41:58 INFO  [main] base.BaseTest BaseTest.java66 - Chrome browser opened
+20230613 21:42:08 INFO  [main] tests.LoginTest LoginTest.java67 - Login to salesforce successful, On home page now
+20230613 21:42:08 INFO  [main] tests.HomePageTest HomePageTest.java29 - On Home Page
+20230613 21:44:27 INFO  [main] base.BaseTest BaseTest.java66 - Chrome browser opened
+20230613 21:44:32 INFO  [main] tests.LoginTest LoginTest.java67 - Login to salesforce successful, On home page now
+20230613 21:44:32 INFO  [main] tests.HomePageTest HomePageTest.java29 - On Home Page
+20230613 21:46:10 INFO  [main] base.BaseTest BaseTest.java66 - Chrome browser opened
+20230613 21:46:16 INFO  [main] tests.LoginTest LoginTest.java67 - Login to salesforce successful, On home page now
+20230613 21:46:16 INFO  [main] tests.HomePageTest HomePageTest.java29 - On Home Page
+20230613 21:47:15 INFO  [main] base.BaseTest BaseTest.java66 - Chrome browser opened
+20230613 21:47:21 INFO  [main] tests.LoginTest LoginTest.java67 - Login to salesforce successful, On home page now
+20230613 21:47:21 INFO  [main] tests.HomePageTest HomePageTest.java29 - On Home Page
+20230613 21:47:26 INFO  [main] base.BaseTest BaseTest.java66 - Chrome browser opened
+20230613 21:48:09 INFO  [main] base.BaseTest BaseTest.java66 - Chrome browser opened
+20230613 21:48:15 INFO  [main] tests.LoginTest LoginTest.java67 - Login to salesforce successful, On home page now
+20230613 21:48:15 INFO  [main] tests.HomePageTest HomePageTest.java29 - On Home Page
+20230614 08:53:34 INFO  [main] base.BaseTest BaseTest.java66 - Chrome browser opened
+20230614 08:53:41 INFO  [main] tests.LoginTest LoginTest.java67 - Login to salesforce successful, On home page now
+20230614 08:53:41 INFO  [main] tests.HomePageTest HomePageTest.java29 - On Home Page
+20230614 08:53:41 INFO  [main] tests.HomePageTest HomePageTest.java53 - Test Case TC_05 passed
+20230614 19:02:57 INFO  [main] base.BaseTest BaseTest.java71 - Chrome browser opened
+20230614 19:03:07 INFO  [main] tests.LoginTest LoginTest.java67 - Login to salesforce successful, On home page now
+20230614 19:03:07 INFO  [main] tests.HomePageTest HomePageTest.java29 - On Home Page
+20230614 19:03:17 INFO  [main] pages.BasePage BasePage.java120 - Element not clickable
+20230614 19:05:55 INFO  [main] base.BaseTest BaseTest.java71 - Chrome browser opened
+20230614 19:06:02 INFO  [main] tests.LoginTest LoginTest.java67 - Login to salesforce successful, On home page now
+20230614 19:06:02 INFO  [main] tests.HomePageTest HomePageTest.java29 - On Home Page
+20230614 19:06:39 INFO  [main] base.BaseTest BaseTest.java71 - Chrome browser opened
+20230614 19:06:50 INFO  [main] tests.LoginTest LoginTest.java67 - Login to salesforce successful, On home page now
+20230614 19:06:50 INFO  [main] tests.HomePageTest HomePageTest.java29 - On Home Page
+20230614 19:07:02 INFO  [main] pages.BasePage BasePage.java120 - Element not clickable
+20230614 19:09:25 INFO  [main] base.BaseTest BaseTest.java71 - Chrome browser opened
+20230614 19:09:32 INFO  [main] tests.LoginTest LoginTest.java67 - Login to salesforce successful, On home page now
+20230614 19:09:32 INFO  [main] tests.HomePageTest HomePageTest.java29 - On Home Page
+20230614 19:09:39 INFO  [main] pages.BasePage BasePage.java120 - Element not clickable
+20230614 19:12:56 INFO  [main] base.BaseTest BaseTest.java71 - Chrome browser opened
+20230614 19:13:13 INFO  [main] tests.LoginTest LoginTest.java67 - Login to salesforce successful, On home page now
+20230614 19:13:13 INFO  [main] tests.HomePageTest HomePageTest.java29 - On Home Page
+20230614 19:13:20 INFO  [main] pages.BasePage BasePage.java120 - Element not clickable
+20230614 19:13:39 INFO  [main] base.BaseTest BaseTest.java71 - Chrome browser opened
+20230614 19:13:46 INFO  [main] tests.LoginTest LoginTest.java67 - Login to salesforce successful, On home page now
+20230614 19:13:46 INFO  [main] tests.HomePageTest HomePageTest.java29 - On Home Page
+20230614 19:13:53 INFO  [main] pages.BasePage BasePage.java120 - Element not clickable
+20230614 19:15:10 INFO  [main] base.BaseTest BaseTest.java71 - Chrome browser opened
+20230614 19:15:20 INFO  [main] tests.LoginTest LoginTest.java67 - Login to salesforce successful, On home page now
+20230614 19:15:20 INFO  [main] tests.HomePageTest HomePageTest.java29 - On Home Page
+20230614 19:15:27 INFO  [main] pages.BasePage BasePage.java120 - Element not clickable
+20230614 19:16:15 INFO  [main] base.BaseTest BaseTest.java71 - Chrome browser opened
+20230614 19:17:30 INFO  [main] base.BaseTest BaseTest.java71 - Chrome browser opened
+20230614 19:17:51 INFO  [main] tests.LoginTest LoginTest.java67 - Login to salesforce successful, On home page now
+20230614 19:17:51 INFO  [main] tests.HomePageTest HomePageTest.java29 - On Home Page
+20230614 19:17:58 INFO  [main] pages.BasePage BasePage.java120 - Element not clickable
+20230614 19:29:16 INFO  [main] base.BaseTest BaseTest.java71 - Chrome browser opened
+20230614 19:29:25 INFO  [main] tests.LoginTest LoginTest.java67 - Login to salesforce successful, On home page now
+20230614 19:29:25 INFO  [main] tests.HomePageTest HomePageTest.java29 - On Home Page
+20230614 19:29:32 INFO  [main] pages.BasePage BasePage.java120 - Element not clickable
+20230614 19:30:33 INFO  [main] base.BaseTest BaseTest.java71 - Chrome browser opened
+20230614 19:30:41 INFO  [main] tests.LoginTest LoginTest.java67 - Login to salesforce successful, On home page now
+20230614 19:30:41 INFO  [main] tests.HomePageTest HomePageTest.java29 - On Home Page
+20230614 19:32:27 INFO  [main] base.BaseTest BaseTest.java71 - Chrome browser opened
+20230614 19:32:34 INFO  [main] tests.LoginTest LoginTest.java67 - Login to salesforce successful, On home page now
+20230614 19:32:34 INFO  [main] tests.HomePageTest HomePageTest.java29 - On Home Page
+20230614 19:32:41 INFO  [main] pages.BasePage BasePage.java120 - Element not clickable
+20230614 19:32:41 INFO  [main] pages.BasePage BasePage.java120 - Element not clickable
+20230615 08:08:37 INFO  [main] base.BaseTest BaseTest.java71 - Chrome browser opened
+20230615 08:08:43 INFO  [main] tests.LoginTest LoginTest.java67 - Login to salesforce successful, On home page now
+20230615 08:08:43 INFO  [main] tests.HomePageTest HomePageTest.java29 - On Home Page
+20230615 08:13:02 INFO  [main] base.BaseTest BaseTest.java71 - Chrome browser opened
+20230615 08:13:08 INFO  [main] tests.LoginTest LoginTest.java67 - Login to salesforce successful, On home page now
+20230615 08:13:08 INFO  [main] tests.HomePageTest HomePageTest.java29 - On Home Page
+20230615 08:15:49 INFO  [main] base.BaseTest BaseTest.java71 - Chrome browser opened
+20230615 08:15:55 INFO  [main] tests.LoginTest LoginTest.java67 - Login to salesforce successful, On home page now
+20230615 08:15:55 INFO  [main] tests.HomePageTest HomePageTest.java29 - On Home Page
+20230615 08:16:55 INFO  [main] base.BaseTest BaseTest.java71 - Chrome browser opened
+20230615 08:17:00 INFO  [main] tests.LoginTest LoginTest.java67 - Login to salesforce successful, On home page now
+20230615 08:17:00 INFO  [main] tests.HomePageTest HomePageTest.java29 - On Home Page
+20230615 08:26:15 INFO  [main] base.BaseTest BaseTest.java71 - Chrome browser opened
+20230615 08:26:20 INFO  [main] tests.LoginTest LoginTest.java67 - Login to salesforce successful, On home page now
+20230615 08:26:20 INFO  [main] tests.HomePageTest HomePageTest.java29 - On Home Page
+20230615 08:26:51 INFO  [main] base.BaseTest BaseTest.java71 - Chrome browser opened
+20230615 08:26:56 INFO  [main] tests.LoginTest LoginTest.java67 - Login to salesforce successful, On home page now
+20230615 08:26:56 INFO  [main] tests.HomePageTest HomePageTest.java29 - On Home Page
+20230615 08:30:22 INFO  [main] base.BaseTest BaseTest.java71 - Chrome browser opened
+20230615 08:30:27 INFO  [main] tests.LoginTest LoginTest.java67 - Login to salesforce successful, On home page now
+20230615 08:30:27 INFO  [main] tests.HomePageTest HomePageTest.java29 - On Home Page
+20230615 08:32:03 INFO  [main] base.BaseTest BaseTest.java71 - Chrome browser opened
+20230615 08:32:08 INFO  [main] tests.LoginTest LoginTest.java67 - Login to salesforce successful, On home page now
+20230615 08:32:08 INFO  [main] tests.HomePageTest HomePageTest.java29 - On Home Page
+20230615 08:32:29 INFO  [main] pages.BasePage BasePage.java120 - Element not clickable
+20230615 21:35:32 INFO  [main] base.BaseTest BaseTest.java71 - Chrome browser opened
+20230615 21:35:42 INFO  [main] tests.LoginTest LoginTest.java67 - Login to salesforce successful, On home page now
+20230615 21:35:42 INFO  [main] tests.HomePageTest HomePageTest.java29 - On Home Page
+20230615 21:36:03 INFO  [main] pages.BasePage BasePage.java120 - Element not clickable
+20230615 21:46:28 INFO  [main] base.BaseTest BaseTest.java71 - Chrome browser opened
+20230615 21:46:35 INFO  [main] tests.LoginTest LoginTest.java67 - Login to salesforce successful, On home page now
+20230615 21:46:35 INFO  [main] tests.HomePageTest HomePageTest.java29 - On Home Page
+20230615 21:46:56 INFO  [main] pages.BasePage BasePage.java120 - Element not clickable
+20230615 21:53:04 INFO  [main] base.BaseTest BaseTest.java71 - Chrome browser opened
+20230615 21:53:11 INFO  [main] tests.LoginTest LoginTest.java67 - Login to salesforce successful, On home page now
+20230615 21:53:11 INFO  [main] tests.HomePageTest HomePageTest.java29 - On Home Page
+20230615 21:53:31 INFO  [main] pages.BasePage BasePage.java120 - Element not clickable
+20230615 21:56:12 INFO  [main] base.BaseTest BaseTest.java71 - Chrome browser opened
+20230615 21:56:19 INFO  [main] tests.LoginTest LoginTest.java67 - Login to salesforce successful, On home page now
+20230615 21:56:19 INFO  [main] tests.HomePageTest HomePageTest.java29 - On Home Page
+20230615 21:56:39 INFO  [main] pages.BasePage BasePage.java120 - Element not clickable
+20230615 21:58:10 INFO  [main] base.BaseTest BaseTest.java71 - Chrome browser opened
+20230615 21:58:18 INFO  [main] tests.LoginTest LoginTest.java67 - Login to salesforce successful, On home page now
+20230615 21:58:18 INFO  [main] tests.HomePageTest HomePageTest.java29 - On Home Page
+20230615 21:58:37 INFO  [main] pages.BasePage BasePage.java120 - Element not clickable
+20230615 21:59:35 INFO  [main] base.BaseTest BaseTest.java71 - Chrome browser opened
+20230615 21:59:41 INFO  [main] tests.LoginTest LoginTest.java67 - Login to salesforce successful, On home page now
+20230615 21:59:41 INFO  [main] tests.HomePageTest HomePageTest.java29 - On Home Page
+20230615 22:00:02 INFO  [main] pages.BasePage BasePage.java120 - Element not clickable
+20230615 22:01:50 INFO  [main] base.BaseTest BaseTest.java71 - Chrome browser opened
+20230615 22:01:56 INFO  [main] tests.LoginTest LoginTest.java67 - Login to salesforce successful, On home page now
+20230615 22:01:56 INFO  [main] tests.HomePageTest HomePageTest.java29 - On Home Page
+20230615 22:02:18 INFO  [main] pages.BasePage BasePage.java120 - Element not clickable
+20230615 22:20:30 INFO  [main] base.BaseTest BaseTest.java71 - Chrome browser opened
+20230615 22:20:38 INFO  [main] tests.LoginTest LoginTest.java67 - Login to salesforce successful, On home page now
+20230615 22:20:38 INFO  [main] tests.HomePageTest HomePageTest.java29 - On Home Page
+20230615 22:20:54 INFO  [main] pages.BasePage BasePage.java120 - Element not clickable
+20230615 22:43:08 INFO  [main] base.BaseTest BaseTest.java71 - Chrome browser opened
+20230615 22:43:15 INFO  [main] tests.LoginTest LoginTest.java67 - Login to salesforce successful, On home page now
+20230615 22:43:15 INFO  [main] tests.HomePageTest HomePageTest.java29 - On Home Page
+20230615 22:44:20 INFO  [main] base.BaseTest BaseTest.java71 - Chrome browser opened
+20230615 22:44:27 INFO  [main] tests.LoginTest LoginTest.java67 - Login to salesforce successful, On home page now
+20230615 22:44:27 INFO  [main] tests.HomePageTest HomePageTest.java29 - On Home Page
+20230615 22:46:02 INFO  [main] base.BaseTest BaseTest.java71 - Chrome browser opened
+20230615 22:46:09 INFO  [main] tests.LoginTest LoginTest.java67 - Login to salesforce successful, On home page now
+20230615 22:46:09 INFO  [main] tests.HomePageTest HomePageTest.java29 - On Home Page
+20230615 22:46:48 INFO  [main] base.BaseTest BaseTest.java71 - Chrome browser opened
+20230615 22:46:53 INFO  [main] tests.LoginTest LoginTest.java67 - Login to salesforce successful, On home page now
+20230615 22:46:53 INFO  [main] tests.HomePageTest HomePageTest.java29 - On Home Page
+20230615 22:48:55 INFO  [main] base.BaseTest BaseTest.java71 - Chrome browser opened
+20230615 22:49:01 INFO  [main] tests.LoginTest LoginTest.java67 - Login to salesforce successful, On home page now
+20230615 22:49:01 INFO  [main] tests.HomePageTest HomePageTest.java29 - On Home Page
+20230615 22:58:01 INFO  [main] base.BaseTest BaseTest.java71 - Chrome browser opened
+20230615 22:58:10 INFO  [main] tests.LoginTest LoginTest.java67 - Login to salesforce successful, On home page now
+20230615 22:58:10 INFO  [main] tests.HomePageTest HomePageTest.java29 - On Home Page
+20230615 22:58:41 INFO  [main] base.BaseTest BaseTest.java71 - Chrome browser opened
+20230615 22:58:48 INFO  [main] tests.LoginTest LoginTest.java67 - Login to salesforce successful, On home page now
+20230615 22:58:48 INFO  [main] tests.HomePageTest HomePageTest.java29 - On Home Page
+20230615 23:06:07 INFO  [main] base.BaseTest BaseTest.java71 - Chrome browser opened
+20230615 23:06:14 INFO  [main] tests.LoginTest LoginTest.java67 - Login to salesforce successful, On home page now
+20230615 23:06:14 INFO  [main] tests.HomePageTest HomePageTest.java29 - On Home Page
+20230615 23:06:33 INFO  [main] base.BaseTest BaseTest.java71 - Chrome browser opened
+20230615 23:06:39 INFO  [main] tests.LoginTest LoginTest.java67 - Login to salesforce successful, On home page now
+20230615 23:06:39 INFO  [main] tests.HomePageTest HomePageTest.java29 - On Home Page
+20230615 23:07:20 INFO  [main] base.BaseTest BaseTest.java71 - Chrome browser opened
+20230615 23:07:43 INFO  [main] base.BaseTest BaseTest.java71 - Chrome browser opened
+20230615 23:07:49 INFO  [main] tests.LoginTest LoginTest.java67 - Login to salesforce successful, On home page now
+20230615 23:07:49 INFO  [main] tests.HomePageTest HomePageTest.java29 - On Home Page
+20230615 23:09:52 INFO  [main] base.BaseTest BaseTest.java71 - Chrome browser opened
+20230615 23:10:00 INFO  [main] tests.LoginTest LoginTest.java67 - Login to salesforce successful, On home page now
+20230615 23:10:00 INFO  [main] tests.HomePageTest HomePageTest.java29 - On Home Page
+20230615 23:10:58 INFO  [main] base.BaseTest BaseTest.java71 - Chrome browser opened
+20230615 23:11:04 INFO  [main] tests.LoginTest LoginTest.java67 - Login to salesforce successful, On home page now
+20230615 23:11:04 INFO  [main] tests.HomePageTest HomePageTest.java29 - On Home Page
+20230615 23:11:35 INFO  [main] base.BaseTest BaseTest.java71 - Chrome browser opened
+20230615 23:11:41 INFO  [main] tests.LoginTest LoginTest.java67 - Login to salesforce successful, On home page now
+20230615 23:11:41 INFO  [main] tests.HomePageTest HomePageTest.java29 - On Home Page
+20230615 23:13:26 INFO  [main] base.BaseTest BaseTest.java71 - Chrome browser opened
+20230615 23:13:33 INFO  [main] tests.LoginTest LoginTest.java67 - Login to salesforce successful, On home page now
+20230615 23:13:33 INFO  [main] tests.HomePageTest HomePageTest.java29 - On Home Page
+20230615 23:14:12 INFO  [main] base.BaseTest BaseTest.java71 - Chrome browser opened
+20230615 23:14:18 INFO  [main] tests.LoginTest LoginTest.java67 - Login to salesforce successful, On home page now
+20230615 23:14:18 INFO  [main] tests.HomePageTest HomePageTest.java29 - On Home Page
+20230616 13:04:00 INFO  [main] base.BaseTest BaseTest.java71 - Chrome browser opened
+20230616 13:04:07 INFO  [main] tests.LoginTest LoginTest.java67 - Login to salesforce successful, On home page now
+20230616 13:04:07 INFO  [main] tests.HomePageTest HomePageTest.java29 - On Home Page
+20230616 14:23:44 INFO  [main] base.BaseTest BaseTest.java71 - Chrome browser opened
+20230616 14:24:07 INFO  [main] base.BaseTest BaseTest.java71 - Chrome browser opened
+20230616 14:24:14 INFO  [main] tests.LoginTest LoginTest.java67 - Login to salesforce successful, On home page now
+20230616 14:24:14 INFO  [main] tests.HomePageTest HomePageTest.java29 - On Home Page
+20230616 14:24:30 INFO  [main] pages.BasePage BasePage.java120 - Element not clickable
+20230616 14:25:35 INFO  [main] base.BaseTest BaseTest.java71 - Chrome browser opened
+20230616 14:25:41 INFO  [main] tests.LoginTest LoginTest.java67 - Login to salesforce successful, On home page now
+20230616 14:25:41 INFO  [main] tests.HomePageTest HomePageTest.java29 - On Home Page
+20230616 14:25:56 INFO  [main] pages.BasePage BasePage.java120 - Element not clickable
+20230616 14:28:09 INFO  [main] base.BaseTest BaseTest.java71 - Chrome browser opened
+20230616 14:28:16 INFO  [main] tests.LoginTest LoginTest.java67 - Login to salesforce successful, On home page now
+20230616 14:28:16 INFO  [main] tests.HomePageTest HomePageTest.java29 - On Home Page
+20230616 14:32:49 INFO  [main] base.BaseTest BaseTest.java71 - Chrome browser opened
+20230616 14:32:55 INFO  [main] tests.LoginTest LoginTest.java67 - Login to salesforce successful, On home page now
+20230616 14:32:55 INFO  [main] tests.HomePageTest HomePageTest.java29 - On Home Page
+20230616 14:36:58 INFO  [main] base.BaseTest BaseTest.java71 - Chrome browser opened
+20230616 14:41:05 INFO  [main] base.BaseTest BaseTest.java71 - Chrome browser opened
+20230616 14:41:11 INFO  [main] tests.LoginTest LoginTest.java67 - Login to salesforce successful, On home page now
+20230616 14:41:11 INFO  [main] tests.HomePageTest HomePageTest.java29 - On Home Page
+20230616 14:44:31 INFO  [main] base.BaseTest BaseTest.java71 - Chrome browser opened
+20230616 14:44:37 INFO  [main] tests.LoginTest LoginTest.java67 - Login to salesforce successful, On home page now
+20230616 14:44:37 INFO  [main] tests.HomePageTest HomePageTest.java29 - On Home Page
+20230616 14:45:53 INFO  [main] base.BaseTest BaseTest.java71 - Chrome browser opened
+20230616 14:45:59 INFO  [main] tests.LoginTest LoginTest.java67 - Login to salesforce successful, On home page now
+20230616 14:45:59 INFO  [main] tests.HomePageTest HomePageTest.java29 - On Home Page
+20230616 14:46:59 INFO  [main] base.BaseTest BaseTest.java71 - Chrome browser opened
+20230616 14:47:23 INFO  [main] base.BaseTest BaseTest.java71 - Chrome browser opened
+20230616 14:47:29 INFO  [main] tests.LoginTest LoginTest.java67 - Login to salesforce successful, On home page now
+20230616 14:47:29 INFO  [main] tests.HomePageTest HomePageTest.java29 - On Home Page
+20230616 16:31:54 INFO  [main] base.BaseTest BaseTest.java71 - Chrome browser opened
+20230616 16:32:00 INFO  [main] tests.LoginTest LoginTest.java67 - Login to salesforce successful, On home page now
+20230616 16:32:00 INFO  [main] tests.HomePageTest HomePageTest.java29 - On Home Page
+20230616 16:32:38 INFO  [main] base.BaseTest BaseTest.java71 - Chrome browser opened
+20230616 16:32:44 INFO  [main] tests.LoginTest LoginTest.java67 - Login to salesforce successful, On home page now
+20230616 16:32:44 INFO  [main] tests.HomePageTest HomePageTest.java29 - On Home Page
+20230616 17:16:05 INFO  [main] base.BaseTest BaseTest.java71 - Chrome browser opened
+20230616 17:16:11 INFO  [main] tests.LoginTest LoginTest.java67 - Login to salesforce successful, On home page now
+20230616 17:16:11 INFO  [main] tests.HomePageTest HomePageTest.java29 - On Home Page
+20230616 17:18:41 INFO  [main] base.BaseTest BaseTest.java71 - Chrome browser opened
+20230616 17:18:47 INFO  [main] tests.LoginTest LoginTest.java67 - Login to salesforce successful, On home page now
+20230616 17:18:47 INFO  [main] tests.HomePageTest HomePageTest.java29 - On Home Page
+20230616 17:18:55 INFO  [main] pages.BasePage BasePage.java120 - Element not clickable
+20230616 17:20:04 INFO  [main] base.BaseTest BaseTest.java71 - Chrome browser opened
+20230616 17:20:10 INFO  [main] tests.LoginTest LoginTest.java67 - Login to salesforce successful, On home page now
+20230616 17:20:10 INFO  [main] tests.HomePageTest HomePageTest.java29 - On Home Page
+20230616 17:21:43 INFO  [main] base.BaseTest BaseTest.java71 - Chrome browser opened
+20230616 17:21:49 INFO  [main] tests.LoginTest LoginTest.java67 - Login to salesforce successful, On home page now
+20230616 17:21:49 INFO  [main] tests.HomePageTest HomePageTest.java29 - On Home Page
+20230616 17:21:59 INFO  [main] pages.BasePage BasePage.java120 - Element not clickable
+20230616 17:23:15 INFO  [main] base.BaseTest BaseTest.java71 - Chrome browser opened
+20230616 17:23:20 INFO  [main] tests.LoginTest LoginTest.java67 - Login to salesforce successful, On home page now
+20230616 17:23:20 INFO  [main] tests.HomePageTest HomePageTest.java29 - On Home Page
+20230616 17:23:30 INFO  [main] pages.BasePage BasePage.java120 - Element not clickable
+20230616 17:24:39 INFO  [main] base.BaseTest BaseTest.java71 - Chrome browser opened
+20230616 17:24:46 INFO  [main] tests.LoginTest LoginTest.java67 - Login to salesforce successful, On home page now
+20230616 17:24:46 INFO  [main] tests.HomePageTest HomePageTest.java29 - On Home Page
+20230616 17:24:55 INFO  [main] pages.BasePage BasePage.java120 - Element not clickable
+20230616 17:28:28 INFO  [main] base.BaseTest BaseTest.java71 - Chrome browser opened
+20230616 17:28:35 INFO  [main] tests.LoginTest LoginTest.java67 - Login to salesforce successful, On home page now
+20230616 17:28:35 INFO  [main] tests.HomePageTest HomePageTest.java29 - On Home Page
+20230616 17:28:45 INFO  [main] pages.BasePage BasePage.java120 - Element not clickable
+20230616 17:29:19 INFO  [main] base.BaseTest BaseTest.java71 - Chrome browser opened
+20230616 17:29:27 INFO  [main] tests.LoginTest LoginTest.java67 - Login to salesforce successful, On home page now
+20230616 17:29:27 INFO  [main] tests.HomePageTest HomePageTest.java29 - On Home Page
+20230616 17:31:18 INFO  [main] base.BaseTest BaseTest.java71 - Chrome browser opened
+20230616 17:31:41 INFO  [main] base.BaseTest BaseTest.java71 - Chrome browser opened
+20230616 17:31:47 INFO  [main] tests.LoginTest LoginTest.java67 - Login to salesforce successful, On home page now
+20230616 17:31:47 INFO  [main] tests.HomePageTest HomePageTest.java29 - On Home Page
+20230616 17:33:54 INFO  [main] base.BaseTest BaseTest.java71 - Chrome browser opened
+20230616 17:34:00 INFO  [main] tests.LoginTest LoginTest.java67 - Login to salesforce successful, On home page now
+20230616 17:34:00 INFO  [main] tests.HomePageTest HomePageTest.java29 - On Home Page
+20230616 17:40:48 INFO  [main] base.BaseTest BaseTest.java71 - Chrome browser opened
+20230616 17:40:54 INFO  [main] tests.LoginTest LoginTest.java67 - Login to salesforce successful, On home page now
+20230616 17:40:54 INFO  [main] tests.HomePageTest HomePageTest.java29 - On Home Page
+20230619 19:54:30 INFO  [main] base.BaseTest BaseTest.java71 - Chrome browser opened
+20230619 20:00:46 INFO  [main] base.BaseTest BaseTest.java71 - Chrome browser opened
+20230619 20:04:50 INFO  [main] base.BaseTest BaseTest.java71 - Chrome browser opened
+20230619 20:05:33 INFO  [main] base.BaseTest BaseTest.java71 - Chrome browser opened
+20230619 20:07:03 INFO  [main] base.BaseTest BaseTest.java71 - Chrome browser opened

@@ -1,0 +1,1358 @@
+20230607 19:13:30 INFO  [main] tests.LoginTest LoginTest.java67 - Login to salesforce successful
+20230607 19:13:30 INFO  [main] pages.HomePage HomePage.java37 - On Home Page
+20230607 19:43:35 INFO  [main] tests.LoginTest LoginTest.java67 - Login to salesforce successful
+20230607 19:43:35 INFO  [main] pages.HomePage HomePage.java37 - On Home Page
+20230607 19:46:09 INFO  [main] tests.LoginTest LoginTest.java67 - Login to salesforce successful
+20230607 19:46:09 INFO  [main] pages.HomePage HomePage.java37 - On Home Page
+20230607 19:47:56 INFO  [main] tests.LoginTest LoginTest.java67 - Login to salesforce successful
+20230607 19:47:56 INFO  [main] pages.HomePage HomePage.java37 - On Home Page
+20230607 19:58:48 INFO  [main] tests.LoginTest LoginTest.java67 - Login to salesforce successful
+20230607 19:58:48 INFO  [main] pages.HomePage HomePage.java37 - On Home Page
+20230607 19:59:45 INFO  [main] tests.LoginTest LoginTest.java67 - Login to salesforce successful
+20230607 19:59:45 INFO  [main] pages.HomePage HomePage.java37 - On Home Page
+20230607 20:00:27 INFO  [main] tests.LoginTest LoginTest.java67 - Login to salesforce successful
+20230607 20:00:27 INFO  [main] pages.HomePage HomePage.java37 - On Home Page
+20230607 20:09:31 INFO  [main] tests.LoginTest LoginTest.java67 - Login to salesforce successful
+20230607 20:09:31 INFO  [main] pages.HomePage HomePage.java37 - On Home Page
+20230607 20:12:03 INFO  [main] tests.LoginTest LoginTest.java67 - Login to salesforce successful
+20230607 20:12:03 INFO  [main] pages.HomePage HomePage.java37 - On Home Page
+20230608 20:04:30 INFO  [main] tests.LoginTest LoginTest.java67 - Login to salesforce successful
+20230608 20:04:30 INFO  [main] pages.HomePage HomePage.java37 - On Home Page
+20230608 20:05:09 INFO  [main] base.BaseTest BaseTest.java160 - Element not clickable
+20230608 20:57:24 INFO  [main] tests.LoginTest LoginTest.java67 - Login to salesforce successful
+20230608 20:57:24 INFO  [main] pages.HomePage HomePage.java37 - On Home Page
+20230608 20:59:48 INFO  [main] tests.LoginTest LoginTest.java67 - Login to salesforce successful
+20230608 20:59:48 INFO  [main] pages.HomePage HomePage.java37 - On Home Page
+20230608 21:06:16 INFO  [main] tests.LoginTest LoginTest.java67 - Login to salesforce successful
+20230608 21:06:16 INFO  [main] pages.HomePage HomePage.java37 - On Home Page
+20230608 21:18:35 INFO  [main] tests.LoginTest LoginTest.java67 - Login to salesforce successful
+20230608 21:18:35 INFO  [main] pages.HomePage HomePage.java37 - On Home Page
+20230608 21:20:47 INFO  [main] tests.LoginTest LoginTest.java67 - Login to salesforce successful
+20230608 21:20:47 INFO  [main] pages.HomePage HomePage.java37 - On Home Page
+20230608 21:23:35 INFO  [main] tests.LoginTest LoginTest.java67 - Login to salesforce successful
+20230608 21:23:35 INFO  [main] pages.HomePage HomePage.java37 - On Home Page
+20230608 21:30:37 INFO  [main] tests.LoginTest LoginTest.java67 - Login to salesforce successful
+20230608 21:30:37 INFO  [main] pages.HomePage HomePage.java37 - On Home Page
+20230608 21:36:32 INFO  [main] tests.LoginTest LoginTest.java67 - Login to salesforce successful
+20230608 21:36:32 INFO  [main] pages.HomePage HomePage.java37 - On Home Page
+20230608 21:39:14 INFO  [main] tests.LoginTest LoginTest.java67 - Login to salesforce successful
+20230608 21:39:14 INFO  [main] pages.HomePage HomePage.java37 - On Home Page
+20230609 07:24:20 INFO  [main] tests.LoginTest LoginTest.java67 - Login to salesforce successful
+20230609 07:24:20 INFO  [main] pages.HomePage HomePage.java37 - On Home Page
+20230609 07:27:50 INFO  [main] tests.LoginTest LoginTest.java67 - Login to salesforce successful
+20230609 07:27:50 INFO  [main] pages.HomePage HomePage.java37 - On Home Page
+20230609 07:36:13 INFO  [main] tests.LoginTest LoginTest.java67 - Login to salesforce successful
+20230609 07:36:13 INFO  [main] pages.HomePage HomePage.java37 - On Home Page
+20230609 07:38:10 INFO  [main] tests.LoginTest LoginTest.java67 - Login to salesforce successful
+20230609 07:38:10 INFO  [main] pages.HomePage HomePage.java37 - On Home Page
+20230609 07:40:48 INFO  [main] tests.LoginTest LoginTest.java67 - Login to salesforce successful
+20230609 07:40:48 INFO  [main] pages.HomePage HomePage.java37 - On Home Page
+20230609 07:41:44 INFO  [main] tests.LoginTest LoginTest.java67 - Login to salesforce successful
+20230609 07:41:44 INFO  [main] pages.HomePage HomePage.java37 - On Home Page
+20230609 07:47:46 INFO  [main] tests.LoginTest LoginTest.java67 - Login to salesforce successful
+20230609 07:47:46 INFO  [main] pages.HomePage HomePage.java37 - On Home Page
+20230609 07:58:11 INFO  [main] tests.LoginTest LoginTest.java67 - Login to salesforce successful
+20230609 07:58:11 INFO  [main] pages.HomePage HomePage.java37 - On Home Page
+20230609 08:10:49 INFO  [main] tests.LoginTest LoginTest.java67 - Login to salesforce successful
+20230609 08:10:49 INFO  [main] pages.HomePage HomePage.java37 - On Home Page
+20230609 08:22:35 INFO  [main] tests.LoginTest LoginTest.java67 - Login to salesforce successful
+20230609 08:22:35 INFO  [main] pages.HomePage HomePage.java37 - On Home Page
+20230609 08:34:41 INFO  [main] tests.LoginTest LoginTest.java67 - Login to salesforce successful
+20230609 08:34:41 INFO  [main] pages.HomePage HomePage.java37 - On Home Page
+20230609 08:34:50 INFO  [main] pages.HomePage HomePage.java142 - Post shared
+20230609 08:34:51 INFO  [main] pages.HomePage HomePage.java151 - File uploaded
+20230609 09:10:20 INFO  [main] tests.LoginTest LoginTest.java67 - Login to salesforce successful
+20230609 09:10:20 INFO  [main] pages.HomePage HomePage.java37 - On Home Page
+20230609 09:10:27 INFO  [main] pages.HomePage HomePage.java142 - Post shared
+20230609 09:10:27 INFO  [main] pages.HomePage HomePage.java151 - File uploaded
+20230609 09:21:04 INFO  [main] tests.LoginTest LoginTest.java67 - Login to salesforce successful
+20230609 09:21:04 INFO  [main] pages.HomePage HomePage.java37 - On Home Page
+20230609 09:21:11 INFO  [main] pages.HomePage HomePage.java142 - Post shared
+20230609 09:21:11 INFO  [main] pages.HomePage HomePage.java151 - File uploaded
+20230609 09:28:28 INFO  [main] tests.LoginTest LoginTest.java67 - Login to salesforce successful
+20230609 09:28:28 INFO  [main] pages.HomePage HomePage.java37 - On Home Page
+20230609 09:28:35 INFO  [main] pages.HomePage HomePage.java142 - Post shared
+20230609 09:28:36 INFO  [main] pages.HomePage HomePage.java151 - File uploaded
+20230609 09:33:11 INFO  [main] tests.LoginTest LoginTest.java67 - Login to salesforce successful
+20230609 09:33:11 INFO  [main] pages.HomePage HomePage.java37 - On Home Page
+20230609 09:33:18 INFO  [main] pages.HomePage HomePage.java142 - Post shared
+20230609 09:33:18 INFO  [main] pages.HomePage HomePage.java151 - File uploaded
+20230609 09:36:02 INFO  [main] tests.LoginTest LoginTest.java67 - Login to salesforce successful
+20230609 09:36:02 INFO  [main] pages.HomePage HomePage.java37 - On Home Page
+20230609 09:36:09 INFO  [main] pages.HomePage HomePage.java142 - Post shared
+20230609 09:36:10 INFO  [main] pages.HomePage HomePage.java151 - File uploaded
+20230609 09:38:03 INFO  [main] tests.LoginTest LoginTest.java67 - Login to salesforce successful
+20230609 09:38:03 INFO  [main] pages.HomePage HomePage.java37 - On Home Page
+20230609 09:38:10 INFO  [main] pages.HomePage HomePage.java142 - Post shared
+20230609 09:38:11 INFO  [main] pages.HomePage HomePage.java151 - File uploaded
+20230609 09:42:45 INFO  [main] tests.LoginTest LoginTest.java67 - Login to salesforce successful
+20230609 09:42:45 INFO  [main] pages.HomePage HomePage.java37 - On Home Page
+20230609 09:42:52 INFO  [main] pages.HomePage HomePage.java142 - Post shared
+20230609 09:42:52 INFO  [main] pages.HomePage HomePage.java151 - File uploaded
+20230609 09:50:40 INFO  [main] tests.LoginTest LoginTest.java67 - Login to salesforce successful
+20230609 09:50:40 INFO  [main] pages.HomePage HomePage.java37 - On Home Page
+20230609 09:50:47 INFO  [main] pages.HomePage HomePage.java142 - Post shared
+20230609 09:50:47 INFO  [main] pages.HomePage HomePage.java151 - File uploaded
+20230609 09:55:09 INFO  [main] tests.LoginTest LoginTest.java67 - Login to salesforce successful
+20230609 09:55:09 INFO  [main] pages.HomePage HomePage.java37 - On Home Page
+20230609 09:55:16 INFO  [main] pages.HomePage HomePage.java142 - Post shared
+20230609 09:55:17 INFO  [main] pages.HomePage HomePage.java151 - File uploaded
+20230609 09:57:06 INFO  [main] tests.LoginTest LoginTest.java67 - Login to salesforce successful
+20230609 09:57:06 INFO  [main] pages.HomePage HomePage.java37 - On Home Page
+20230609 09:57:14 INFO  [main] pages.HomePage HomePage.java142 - Post shared
+20230609 09:57:14 INFO  [main] pages.HomePage HomePage.java151 - File uploaded
+20230609 10:01:09 INFO  [main] tests.LoginTest LoginTest.java67 - Login to salesforce successful
+20230609 10:01:09 INFO  [main] pages.HomePage HomePage.java37 - On Home Page
+20230609 10:01:17 INFO  [main] pages.HomePage HomePage.java142 - Post shared
+20230609 10:01:18 INFO  [main] pages.HomePage HomePage.java151 - File uploaded
+20230609 10:02:45 INFO  [main] tests.LoginTest LoginTest.java67 - Login to salesforce successful
+20230609 10:02:45 INFO  [main] pages.HomePage HomePage.java37 - On Home Page
+20230609 10:02:54 INFO  [main] pages.HomePage HomePage.java142 - Post shared
+20230609 10:02:55 INFO  [main] pages.HomePage HomePage.java151 - File uploaded
+20230609 10:10:31 INFO  [main] tests.LoginTest LoginTest.java67 - Login to salesforce successful
+20230609 10:10:31 INFO  [main] pages.HomePage HomePage.java37 - On Home Page
+20230609 10:10:40 INFO  [main] pages.HomePage HomePage.java142 - Post shared
+20230609 10:13:31 INFO  [main] tests.LoginTest LoginTest.java67 - Login to salesforce successful
+20230609 10:13:31 INFO  [main] pages.HomePage HomePage.java37 - On Home Page
+20230609 10:13:39 INFO  [main] pages.HomePage HomePage.java142 - Post shared
+20230609 10:13:39 INFO  [main] pages.HomePage HomePage.java151 - File uploaded
+20230609 10:18:52 INFO  [main] tests.LoginTest LoginTest.java67 - Login to salesforce successful
+20230609 10:18:52 INFO  [main] pages.HomePage HomePage.java37 - On Home Page
+20230609 10:19:01 INFO  [main] pages.HomePage HomePage.java142 - Post shared
+20230609 10:19:01 INFO  [main] pages.HomePage HomePage.java151 - File uploaded
+20230609 10:19:07 INFO  [main] pages.HomePage HomePage.java169 - photo uploaded
+20230609 10:59:50 INFO  [main] tests.LoginTest LoginTest.java67 - Login to salesforce successful
+20230609 10:59:50 INFO  [main] pages.HomePage HomePage.java37 - On Home Page
+20230609 10:59:57 INFO  [main] pages.HomePage HomePage.java142 - Post shared
+20230609 10:59:58 INFO  [main] pages.HomePage HomePage.java151 - File uploaded
+20230609 11:00:03 INFO  [main] pages.HomePage HomePage.java169 - photo uploaded
+20230609 11:10:25 INFO  [main] tests.LoginTest LoginTest.java67 - Login to salesforce successful
+20230609 11:10:25 INFO  [main] pages.HomePage HomePage.java37 - On Home Page
+20230609 11:10:33 INFO  [main] pages.HomePage HomePage.java142 - Post shared
+20230609 11:10:33 INFO  [main] pages.HomePage HomePage.java151 - File uploaded
+20230609 11:14:59 INFO  [main] tests.LoginTest LoginTest.java67 - Login to salesforce successful
+20230609 11:14:59 INFO  [main] pages.HomePage HomePage.java37 - On Home Page
+20230609 11:15:06 INFO  [main] pages.HomePage HomePage.java142 - Post shared
+20230609 11:15:06 INFO  [main] pages.HomePage HomePage.java151 - File uploaded
+20230609 11:15:11 INFO  [main] pages.HomePage HomePage.java169 - photo uploaded
+20230609 11:26:50 INFO  [main] tests.LoginTest LoginTest.java67 - Login to salesforce successful
+20230609 11:26:50 INFO  [main] pages.HomePage HomePage.java37 - On Home Page
+20230609 11:26:57 INFO  [main] pages.HomePage HomePage.java142 - Post shared
+20230609 11:26:57 INFO  [main] pages.HomePage HomePage.java151 - File uploaded
+20230609 11:27:02 INFO  [main] pages.HomePage HomePage.java169 - photo uploaded
+20230609 11:34:38 INFO  [main] tests.LoginTest LoginTest.java67 - Login to salesforce successful
+20230609 11:34:38 INFO  [main] pages.HomePage HomePage.java37 - On Home Page
+20230609 11:34:45 INFO  [main] pages.HomePage HomePage.java142 - Post shared
+20230609 11:34:45 INFO  [main] pages.HomePage HomePage.java151 - File uploaded
+20230609 11:34:50 INFO  [main] pages.HomePage HomePage.java169 - photo uploaded
+20230609 11:45:42 INFO  [main] tests.LoginTest LoginTest.java67 - Login to salesforce successful
+20230609 11:45:42 INFO  [main] pages.HomePage HomePage.java37 - On Home Page
+20230609 11:45:49 INFO  [main] pages.HomePage HomePage.java142 - Post shared
+20230609 11:45:49 INFO  [main] pages.HomePage HomePage.java151 - File uploaded
+20230609 11:45:54 INFO  [main] pages.HomePage HomePage.java169 - photo uploaded
+20230609 11:46:56 INFO  [main] tests.LoginTest LoginTest.java67 - Login to salesforce successful
+20230609 11:46:56 INFO  [main] pages.HomePage HomePage.java37 - On Home Page
+20230609 11:47:04 INFO  [main] pages.HomePage HomePage.java142 - Post shared
+20230609 11:47:04 INFO  [main] pages.HomePage HomePage.java151 - File uploaded
+20230609 11:47:09 INFO  [main] pages.HomePage HomePage.java169 - photo uploaded
+20230609 11:47:59 INFO  [main] tests.LoginTest LoginTest.java67 - Login to salesforce successful
+20230609 11:47:59 INFO  [main] pages.HomePage HomePage.java37 - On Home Page
+20230609 11:48:06 INFO  [main] pages.HomePage HomePage.java142 - Post shared
+20230609 11:48:06 INFO  [main] pages.HomePage HomePage.java151 - File uploaded
+20230609 11:48:11 INFO  [main] pages.HomePage HomePage.java169 - photo uploaded
+20230609 12:07:33 INFO  [main] tests.LoginTest LoginTest.java67 - Login to salesforce successful
+20230609 12:07:33 INFO  [main] pages.HomePage HomePage.java37 - On Home Page
+20230609 12:07:41 INFO  [main] pages.HomePage HomePage.java142 - Post shared
+20230609 12:08:38 INFO  [main] tests.LoginTest LoginTest.java67 - Login to salesforce successful
+20230609 12:08:38 INFO  [main] pages.HomePage HomePage.java37 - On Home Page
+20230609 12:08:46 INFO  [main] pages.HomePage HomePage.java142 - Post shared
+20230609 12:08:46 INFO  [main] pages.HomePage HomePage.java151 - File uploaded
+20230609 12:08:51 INFO  [main] pages.HomePage HomePage.java169 - photo uploaded
+20230609 12:11:03 INFO  [main] tests.LoginTest LoginTest.java67 - Login to salesforce successful
+20230609 12:11:03 INFO  [main] pages.HomePage HomePage.java37 - On Home Page
+20230609 12:11:11 INFO  [main] pages.HomePage HomePage.java142 - Post shared
+20230609 12:13:41 INFO  [main] tests.LoginTest LoginTest.java67 - Login to salesforce successful
+20230609 12:13:41 INFO  [main] pages.HomePage HomePage.java37 - On Home Page
+20230609 12:13:48 INFO  [main] pages.HomePage HomePage.java142 - Post shared
+20230609 12:13:48 INFO  [main] pages.HomePage HomePage.java152 - File uploaded
+20230609 12:13:53 INFO  [main] pages.HomePage HomePage.java170 - photo uploaded
+20230609 12:16:53 INFO  [main] tests.LoginTest LoginTest.java67 - Login to salesforce successful
+20230609 12:16:53 INFO  [main] pages.HomePage HomePage.java37 - On Home Page
+20230609 12:17:00 INFO  [main] pages.HomePage HomePage.java142 - Post shared
+20230609 12:17:00 INFO  [main] pages.HomePage HomePage.java152 - File uploaded
+20230609 12:17:05 INFO  [main] pages.HomePage HomePage.java170 - photo uploaded
+20230609 12:20:54 INFO  [main] tests.LoginTest LoginTest.java67 - Login to salesforce successful
+20230609 12:20:54 INFO  [main] pages.HomePage HomePage.java37 - On Home Page
+20230609 12:21:01 INFO  [main] pages.HomePage HomePage.java142 - Post shared
+20230609 12:21:01 INFO  [main] pages.HomePage HomePage.java152 - File uploaded
+20230609 12:21:06 INFO  [main] pages.HomePage HomePage.java170 - photo uploaded
+20230609 12:24:29 INFO  [main] tests.LoginTest LoginTest.java67 - Login to salesforce successful
+20230609 12:24:29 INFO  [main] pages.HomePage HomePage.java37 - On Home Page
+20230609 12:24:36 INFO  [main] pages.HomePage HomePage.java142 - Post shared
+20230609 12:24:36 INFO  [main] pages.HomePage HomePage.java152 - File uploaded
+20230609 12:24:42 INFO  [main] pages.HomePage HomePage.java170 - photo selected
+20230609 12:26:35 INFO  [main] tests.LoginTest LoginTest.java67 - Login to salesforce successful
+20230609 12:26:35 INFO  [main] pages.HomePage HomePage.java37 - On Home Page
+20230609 12:26:43 INFO  [main] pages.HomePage HomePage.java142 - Post shared
+20230609 12:26:43 INFO  [main] pages.HomePage HomePage.java152 - File uploaded
+20230609 12:26:48 INFO  [main] pages.HomePage HomePage.java170 - photo selected
+20230609 12:34:13 INFO  [main] tests.LoginTest LoginTest.java67 - Login to salesforce successful
+20230609 12:34:13 INFO  [main] pages.HomePage HomePage.java37 - On Home Page
+20230609 12:34:20 INFO  [main] pages.HomePage HomePage.java142 - Post shared
+20230609 12:34:20 INFO  [main] pages.HomePage HomePage.java152 - File uploaded
+20230609 12:34:25 INFO  [main] pages.HomePage HomePage.java170 - photo selected
+20230609 12:36:12 INFO  [main] tests.LoginTest LoginTest.java67 - Login to salesforce successful
+20230609 12:36:12 INFO  [main] pages.HomePage HomePage.java37 - On Home Page
+20230609 12:36:19 INFO  [main] pages.HomePage HomePage.java142 - Post shared
+20230609 12:36:19 INFO  [main] pages.HomePage HomePage.java152 - File uploaded
+20230609 12:36:24 INFO  [main] pages.HomePage HomePage.java170 - photo selected
+20230609 12:37:03 INFO  [main] tests.LoginTest LoginTest.java67 - Login to salesforce successful
+20230609 12:37:03 INFO  [main] pages.HomePage HomePage.java37 - On Home Page
+20230609 12:37:10 INFO  [main] pages.HomePage HomePage.java142 - Post shared
+20230609 12:37:11 INFO  [main] pages.HomePage HomePage.java152 - File uploaded
+20230609 12:37:16 INFO  [main] pages.HomePage HomePage.java170 - photo selected
+20230609 12:49:57 INFO  [main] tests.LoginTest LoginTest.java67 - Login to salesforce successful
+20230609 12:49:57 INFO  [main] pages.HomePage HomePage.java37 - On Home Page
+20230609 12:50:05 INFO  [main] pages.HomePage HomePage.java142 - Post shared
+20230609 12:50:05 INFO  [main] pages.HomePage HomePage.java152 - File uploaded
+20230609 12:50:10 INFO  [main] pages.HomePage HomePage.java170 - photo selected
+20230609 12:54:36 INFO  [main] tests.LoginTest LoginTest.java67 - Login to salesforce successful
+20230609 12:54:36 INFO  [main] pages.HomePage HomePage.java37 - On Home Page
+20230609 12:54:44 INFO  [main] pages.HomePage HomePage.java142 - Post shared
+20230609 12:54:44 INFO  [main] pages.HomePage HomePage.java152 - File uploaded
+20230609 12:54:49 INFO  [main] pages.HomePage HomePage.java170 - photo selected
+20230609 12:59:42 INFO  [main] tests.LoginTest LoginTest.java67 - Login to salesforce successful
+20230609 12:59:42 INFO  [main] pages.HomePage HomePage.java37 - On Home Page
+20230609 12:59:49 INFO  [main] pages.HomePage HomePage.java142 - Post shared
+20230609 12:59:50 INFO  [main] pages.HomePage HomePage.java152 - File uploaded
+20230609 12:59:55 INFO  [main] pages.HomePage HomePage.java170 - photo selected
+20230609 13:01:07 INFO  [main] tests.LoginTest LoginTest.java67 - Login to salesforce successful
+20230609 13:01:07 INFO  [main] pages.HomePage HomePage.java37 - On Home Page
+20230609 13:01:50 INFO  [main] tests.LoginTest LoginTest.java67 - Login to salesforce successful
+20230609 13:01:50 INFO  [main] pages.HomePage HomePage.java37 - On Home Page
+20230609 13:02:38 INFO  [main] tests.LoginTest LoginTest.java67 - Login to salesforce successful
+20230609 13:02:38 INFO  [main] pages.HomePage HomePage.java37 - On Home Page
+20230609 13:02:46 INFO  [main] pages.HomePage HomePage.java142 - Post shared
+20230609 13:02:46 INFO  [main] pages.HomePage HomePage.java152 - File uploaded
+20230609 13:02:51 INFO  [main] pages.HomePage HomePage.java170 - photo selected
+20230609 13:08:05 INFO  [main] tests.LoginTest LoginTest.java67 - Login to salesforce successful
+20230609 13:08:05 INFO  [main] pages.HomePage HomePage.java37 - On Home Page
+20230609 13:08:13 INFO  [main] pages.HomePage HomePage.java142 - Post shared
+20230609 13:08:14 INFO  [main] pages.HomePage HomePage.java152 - File uploaded
+20230609 13:08:18 INFO  [main] pages.HomePage HomePage.java170 - photo selected
+20230609 13:10:11 INFO  [main] tests.LoginTest LoginTest.java67 - Login to salesforce successful
+20230609 13:10:11 INFO  [main] pages.HomePage HomePage.java37 - On Home Page
+20230609 13:10:18 INFO  [main] pages.HomePage HomePage.java142 - Post shared
+20230609 13:10:18 INFO  [main] pages.HomePage HomePage.java152 - File uploaded
+20230609 13:10:24 INFO  [main] pages.HomePage HomePage.java170 - photo selected
+20230609 14:43:01 INFO  [main] tests.LoginTest LoginTest.java67 - Login to salesforce successful
+20230609 14:43:01 INFO  [main] pages.HomePage HomePage.java37 - On Home Page
+20230609 14:43:09 INFO  [main] pages.HomePage HomePage.java142 - Post shared
+20230609 14:43:10 INFO  [main] pages.HomePage HomePage.java152 - File uploaded
+20230609 14:43:15 INFO  [main] pages.HomePage HomePage.java170 - photo selected
+20230609 14:54:11 INFO  [main] tests.LoginTest LoginTest.java67 - Login to salesforce successful
+20230609 14:54:11 INFO  [main] pages.HomePage HomePage.java37 - On Home Page
+20230609 14:54:19 INFO  [main] pages.HomePage HomePage.java142 - Post shared
+20230609 14:54:19 INFO  [main] pages.HomePage HomePage.java152 - File uploaded
+20230609 14:54:25 INFO  [main] pages.HomePage HomePage.java170 - photo selected
+20230609 14:55:36 INFO  [main] tests.LoginTest LoginTest.java67 - Login to salesforce successful
+20230609 14:55:36 INFO  [main] pages.HomePage HomePage.java37 - On Home Page
+20230609 14:55:43 INFO  [main] pages.HomePage HomePage.java142 - Post shared
+20230609 14:55:44 INFO  [main] pages.HomePage HomePage.java152 - File uploaded
+20230609 14:55:49 INFO  [main] pages.HomePage HomePage.java170 - photo selected
+20230609 14:55:51 INFO  [main] pages.HomePage HomePage.java178 - Photo saved
+20230609 15:08:29 INFO  [main] tests.LoginTest LoginTest.java67 - Login to salesforce successful
+20230609 15:08:29 INFO  [main] pages.HomePage HomePage.java37 - On Home Page
+20230609 15:08:38 INFO  [main] pages.HomePage HomePage.java142 - Post shared
+20230609 15:08:39 INFO  [main] pages.HomePage HomePage.java152 - File uploaded
+20230609 15:08:44 INFO  [main] pages.HomePage HomePage.java170 - photo selected
+20230609 16:44:45 INFO  [main] tests.LoginTest LoginTest.java67 - Login to salesforce successful
+20230609 16:44:45 INFO  [main] pages.HomePage HomePage.java39 - On Home Page
+20230609 16:44:53 INFO  [main] pages.HomePage HomePage.java144 - Post shared
+20230609 16:44:53 INFO  [main] pages.HomePage HomePage.java154 - File uploaded
+20230609 16:44:58 INFO  [main] pages.HomePage HomePage.java182 - photo selected
+20230609 16:45:00 INFO  [main] pages.HomePage HomePage.java192 - Photo saved
+20230609 16:49:48 INFO  [main] tests.LoginTest LoginTest.java67 - Login to salesforce successful
+20230609 16:49:48 INFO  [main] pages.HomePage HomePage.java39 - On Home Page
+20230609 16:49:56 INFO  [main] pages.HomePage HomePage.java144 - Post shared
+20230609 16:49:56 INFO  [main] pages.HomePage HomePage.java154 - File uploaded
+20230609 16:50:01 INFO  [main] pages.HomePage HomePage.java184 - photo selected
+20230609 16:50:03 INFO  [main] pages.HomePage HomePage.java194 - Photo saved
+20230609 16:54:11 INFO  [main] tests.LoginTest LoginTest.java67 - Login to salesforce successful
+20230609 16:54:11 INFO  [main] pages.HomePage HomePage.java39 - On Home Page
+20230609 16:54:19 INFO  [main] pages.HomePage HomePage.java154 - File uploaded
+20230609 16:54:24 INFO  [main] pages.HomePage HomePage.java184 - photo selected
+20230609 16:56:13 INFO  [main] tests.LoginTest LoginTest.java67 - Login to salesforce successful
+20230609 16:56:13 INFO  [main] pages.HomePage HomePage.java39 - On Home Page
+20230609 16:56:21 INFO  [main] pages.HomePage HomePage.java154 - File uploaded
+20230609 16:56:26 INFO  [main] pages.HomePage HomePage.java184 - photo selected
+20230609 16:57:41 INFO  [main] tests.LoginTest LoginTest.java67 - Login to salesforce successful
+20230609 16:57:41 INFO  [main] pages.HomePage HomePage.java39 - On Home Page
+20230609 16:57:49 INFO  [main] pages.HomePage HomePage.java154 - File uploaded
+20230609 16:57:54 INFO  [main] pages.HomePage HomePage.java184 - photo selected
+20230609 17:14:45 INFO  [main] tests.LoginTest LoginTest.java67 - Login to salesforce successful
+20230609 17:14:45 INFO  [main] pages.HomePage HomePage.java39 - On Home Page
+20230609 17:14:53 INFO  [main] pages.HomePage HomePage.java154 - File uploaded
+20230609 17:14:58 INFO  [main] pages.HomePage HomePage.java184 - photo selected
+20230609 17:18:23 INFO  [main] tests.LoginTest LoginTest.java67 - Login to salesforce successful
+20230609 17:18:23 INFO  [main] pages.HomePage HomePage.java39 - On Home Page
+20230609 17:18:31 INFO  [main] pages.HomePage HomePage.java154 - File uploaded
+20230609 17:18:36 INFO  [main] pages.HomePage HomePage.java184 - photo selected
+20230609 17:21:45 INFO  [main] tests.LoginTest LoginTest.java67 - Login to salesforce successful
+20230609 17:21:45 INFO  [main] pages.HomePage HomePage.java39 - On Home Page
+20230609 17:21:52 INFO  [main] pages.HomePage HomePage.java154 - File uploaded
+20230609 17:21:57 INFO  [main] pages.HomePage HomePage.java184 - photo selected
+20230609 17:26:00 INFO  [main] tests.LoginTest LoginTest.java67 - Login to salesforce successful
+20230609 17:26:00 INFO  [main] pages.HomePage HomePage.java39 - On Home Page
+20230609 17:26:08 INFO  [main] pages.HomePage HomePage.java154 - File uploaded
+20230609 17:26:13 INFO  [main] pages.HomePage HomePage.java184 - photo selected
+20230609 17:32:33 INFO  [main] tests.LoginTest LoginTest.java67 - Login to salesforce successful
+20230609 17:32:33 INFO  [main] pages.HomePage HomePage.java39 - On Home Page
+20230609 17:32:41 INFO  [main] base.BaseTest BaseTest.java160 - Element not clickable
+20230609 17:33:24 INFO  [main] tests.LoginTest LoginTest.java67 - Login to salesforce successful
+20230609 17:33:25 INFO  [main] pages.HomePage HomePage.java39 - On Home Page
+20230609 17:33:32 INFO  [main] base.BaseTest BaseTest.java160 - Element not clickable
+20230609 17:38:07 INFO  [main] tests.LoginTest LoginTest.java67 - Login to salesforce successful
+20230609 17:38:07 INFO  [main] pages.HomePage HomePage.java39 - On Home Page
+20230609 17:42:58 INFO  [main] tests.LoginTest LoginTest.java67 - Login to salesforce successful
+20230609 17:42:58 INFO  [main] pages.HomePage HomePage.java39 - On Home Page
+20230609 17:44:19 INFO  [main] tests.LoginTest LoginTest.java67 - Login to salesforce successful
+20230609 17:44:19 INFO  [main] pages.HomePage HomePage.java39 - On Home Page
+20230609 17:47:38 INFO  [main] tests.LoginTest LoginTest.java67 - Login to salesforce successful
+20230609 17:47:38 INFO  [main] pages.HomePage HomePage.java39 - On Home Page
+20230609 17:48:17 INFO  [main] base.BaseTest BaseTest.java160 - Element not clickable
+20230609 17:48:17 INFO  [main] pages.HomePage HomePage.java156 - File uploaded
+20230609 17:48:22 INFO  [main] pages.HomePage HomePage.java186 - photo selected
+20230609 17:51:52 INFO  [main] tests.LoginTest LoginTest.java67 - Login to salesforce successful
+20230609 17:51:52 INFO  [main] pages.HomePage HomePage.java39 - On Home Page
+20230609 17:54:08 INFO  [main] tests.LoginTest LoginTest.java67 - Login to salesforce successful
+20230609 17:54:08 INFO  [main] pages.HomePage HomePage.java39 - On Home Page
+20230609 17:56:19 INFO  [main] tests.LoginTest LoginTest.java67 - Login to salesforce successful
+20230609 17:56:19 INFO  [main] pages.HomePage HomePage.java39 - On Home Page
+20230609 17:56:26 INFO  [main] pages.HomePage HomePage.java157 - File uploaded
+20230609 17:56:32 INFO  [main] pages.HomePage HomePage.java187 - photo selected
+20230609 18:06:01 INFO  [main] tests.LoginTest LoginTest.java67 - Login to salesforce successful
+20230609 18:06:01 INFO  [main] pages.HomePage HomePage.java39 - On Home Page
+20230609 18:06:09 INFO  [main] pages.HomePage HomePage.java157 - File uploaded
+20230609 18:08:03 INFO  [main] tests.LoginTest LoginTest.java67 - Login to salesforce successful
+20230609 18:08:03 INFO  [main] pages.HomePage HomePage.java39 - On Home Page
+20230609 18:10:18 INFO  [main] tests.LoginTest LoginTest.java67 - Login to salesforce successful
+20230609 18:10:18 INFO  [main] pages.HomePage HomePage.java39 - On Home Page
+20230609 18:21:16 INFO  [main] tests.LoginTest LoginTest.java67 - Login to salesforce successful
+20230609 18:21:16 INFO  [main] pages.HomePage HomePage.java39 - On Home Page
+20230609 18:29:43 INFO  [main] tests.LoginTest LoginTest.java67 - Login to salesforce successful
+20230609 18:29:43 INFO  [main] pages.HomePage HomePage.java39 - On Home Page
+20230609 18:32:47 INFO  [main] tests.LoginTest LoginTest.java67 - Login to salesforce successful
+20230609 18:32:47 INFO  [main] pages.HomePage HomePage.java39 - On Home Page
+20230609 18:35:19 INFO  [main] tests.LoginTest LoginTest.java67 - Login to salesforce successful
+20230609 18:35:19 INFO  [main] pages.HomePage HomePage.java39 - On Home Page
+20230609 18:40:08 INFO  [main] tests.LoginTest LoginTest.java67 - Login to salesforce successful
+20230609 18:40:08 INFO  [main] pages.HomePage HomePage.java39 - On Home Page
+20230609 18:42:23 INFO  [main] tests.LoginTest LoginTest.java67 - Login to salesforce successful
+20230609 18:42:23 INFO  [main] pages.HomePage HomePage.java39 - On Home Page
+20230609 18:46:57 INFO  [main] tests.LoginTest LoginTest.java67 - Login to salesforce successful
+20230609 18:46:57 INFO  [main] pages.HomePage HomePage.java39 - On Home Page
+20230609 18:47:40 INFO  [main] base.BaseTest BaseTest.java160 - Element not clickable
+20230609 18:47:40 INFO  [main] pages.HomePage HomePage.java189 - photo selected
+20230609 18:50:00 INFO  [main] tests.LoginTest LoginTest.java67 - Login to salesforce successful
+20230609 18:50:00 INFO  [main] pages.HomePage HomePage.java39 - On Home Page
+20230609 18:50:14 INFO  [main] pages.HomePage HomePage.java189 - photo selected
+20230609 18:54:27 INFO  [main] tests.LoginTest LoginTest.java67 - Login to salesforce successful
+20230609 18:54:27 INFO  [main] pages.HomePage HomePage.java39 - On Home Page
+20230609 18:54:40 INFO  [main] pages.HomePage HomePage.java189 - photo selected
+20230609 18:54:42 INFO  [main] pages.HomePage HomePage.java204 - Photo saved
+20230609 19:00:42 INFO  [main] tests.LoginTest LoginTest.java67 - Login to salesforce successful
+20230609 19:00:42 INFO  [main] pages.HomePage HomePage.java39 - On Home Page
+20230609 19:00:50 INFO  [main] pages.HomePage HomePage.java129 - Post shared
+20230609 19:00:50 INFO  [main] pages.HomePage HomePage.java141 - File uploaded
+20230609 19:00:56 INFO  [main] pages.HomePage HomePage.java161 - photo selected
+20230609 19:05:28 INFO  [main] tests.LoginTest LoginTest.java67 - Login to salesforce successful
+20230609 19:05:28 INFO  [main] pages.HomePage HomePage.java39 - On Home Page
+20230609 19:05:36 INFO  [main] pages.HomePage HomePage.java129 - Post shared
+20230609 19:05:37 INFO  [main] pages.HomePage HomePage.java141 - File uploaded
+20230609 19:05:43 INFO  [main] pages.HomePage HomePage.java161 - photo selected
+20230609 19:05:48 INFO  [main] pages.HomePage HomePage.java167 - Photo saved
+20230609 19:07:00 INFO  [main] tests.LoginTest LoginTest.java67 - Login to salesforce successful
+20230609 19:07:00 INFO  [main] pages.HomePage HomePage.java39 - On Home Page
+20230609 19:07:08 INFO  [main] pages.HomePage HomePage.java129 - Post shared
+20230609 19:07:09 INFO  [main] pages.HomePage HomePage.java141 - File uploaded
+20230609 19:07:15 INFO  [main] pages.HomePage HomePage.java161 - photo selected
+20230609 19:07:22 INFO  [main] pages.HomePage HomePage.java167 - Photo saved
+20230617 11:15:33 INFO  [main] pages.LoginPage LoginPage.java41 - SalesForce Login page opened
+20230617 11:15:33 INFO  [main] base.BaseTest BaseTest.java135 - Input text cleared
+20230617 11:15:34 INFO  [main] base.BaseTest BaseTest.java135 - Input text cleared
+20230617 11:15:34 INFO  [main] base.BaseTest BaseTest.java135 - Input text cleared
+20230617 11:23:43 INFO  [main] pages.LoginPage LoginPage.java41 - SalesForce Login page opened
+20230617 11:23:43 INFO  [main] base.BaseTest BaseTest.java136 - Input text cleared
+20230617 11:23:43 INFO  [main] base.BaseTest BaseTest.java136 - Input text cleared
+20230617 11:23:43 INFO  [main] base.BaseTest BaseTest.java136 - Input text cleared
+20230617 11:24:13 INFO  [main] pages.LoginPage LoginPage.java41 - SalesForce Login page opened
+20230617 11:24:13 INFO  [main] base.BaseTest BaseTest.java136 - Input text cleared
+20230617 11:24:13 INFO  [main] base.BaseTest BaseTest.java136 - Input text cleared
+20230617 11:24:13 INFO  [main] base.BaseTest BaseTest.java136 - Input text cleared
+20230617 11:24:41 INFO  [main] pages.LoginPage LoginPage.java41 - SalesForce Login page opened
+20230617 11:24:41 INFO  [main] base.BaseTest BaseTest.java136 - Input text cleared
+20230617 11:24:41 INFO  [main] base.BaseTest BaseTest.java136 - Input text cleared
+20230617 11:24:41 INFO  [main] base.BaseTest BaseTest.java136 - Input text cleared
+20230617 11:25:29 INFO  [main] pages.LoginPage LoginPage.java41 - SalesForce Login page opened
+20230617 11:25:34 INFO  [main] base.BaseTest BaseTest.java136 - Input text cleared
+20230617 11:25:36 INFO  [main] base.BaseTest BaseTest.java136 - Input text cleared
+20230617 11:25:36 INFO  [main] base.BaseTest BaseTest.java136 - Input text cleared
+20230617 11:26:38 INFO  [main] pages.LoginPage LoginPage.java41 - SalesForce Login page opened
+20230617 11:26:45 INFO  [main] base.BaseTest BaseTest.java136 - Input text cleared
+20230617 11:26:46 INFO  [main] base.BaseTest BaseTest.java136 - Input text cleared
+20230617 11:26:46 INFO  [main] base.BaseTest BaseTest.java136 - Input text cleared
+20230617 11:27:47 INFO  [main] pages.LoginPage LoginPage.java41 - SalesForce Login page opened
+20230617 11:27:47 INFO  [main] base.BaseTest BaseTest.java136 - Input text cleared
+20230617 11:27:48 INFO  [main] base.BaseTest BaseTest.java136 - Input text cleared
+20230617 11:27:48 INFO  [main] base.BaseTest BaseTest.java136 - Input text cleared
+20230617 11:27:52 INFO  [main] tests.LoginTest LoginTest.java67 - Login to salesforce successful
+20230617 11:27:52 INFO  [main] pages.HomePage HomePage.java39 - On Home Page
+20230617 11:27:53 INFO  [main] base.BaseTest BaseTest.java162 - Element not clickable
+20230617 11:28:49 INFO  [main] pages.LoginPage LoginPage.java41 - SalesForce Login page opened
+20230617 11:28:49 INFO  [main] base.BaseTest BaseTest.java136 - Input text cleared
+20230617 11:28:49 INFO  [main] base.BaseTest BaseTest.java136 - Input text cleared
+20230617 11:28:49 INFO  [main] base.BaseTest BaseTest.java136 - Input text cleared
+20230617 11:28:53 INFO  [main] tests.LoginTest LoginTest.java67 - Login to salesforce successful
+20230617 11:28:53 INFO  [main] pages.HomePage HomePage.java39 - On Home Page
+20230617 11:28:54 INFO  [main] base.BaseTest BaseTest.java162 - Element not clickable
+20230617 11:31:36 INFO  [main] pages.LoginPage LoginPage.java41 - SalesForce Login page opened
+20230617 11:31:37 INFO  [main] base.BaseTest BaseTest.java136 - Input text cleared
+20230617 11:31:37 INFO  [main] base.BaseTest BaseTest.java136 - Input text cleared
+20230617 11:31:37 INFO  [main] base.BaseTest BaseTest.java136 - Input text cleared
+20230617 11:31:41 INFO  [main] tests.LoginTest LoginTest.java67 - Login to salesforce successful
+20230617 11:31:41 INFO  [main] pages.HomePage HomePage.java39 - On Home Page
+20230617 11:31:41 INFO  [main] base.BaseTest BaseTest.java162 - Element not clickable
+20230617 11:37:56 INFO  [main] pages.LoginPage LoginPage.java41 - SalesForce Login page opened
+20230617 11:37:56 INFO  [main] base.BaseTest BaseTest.java136 - Input text cleared
+20230617 11:37:56 INFO  [main] base.BaseTest BaseTest.java136 - Input text cleared
+20230617 11:37:56 INFO  [main] base.BaseTest BaseTest.java136 - Input text cleared
+20230617 11:38:01 INFO  [main] tests.LoginTest LoginTest.java67 - Login to salesforce successful
+20230617 11:38:01 INFO  [main] pages.HomePage HomePage.java39 - On Home Page
+20230617 11:38:01 INFO  [main] base.BaseTest BaseTest.java162 - Element not clickable
+20230617 11:38:35 INFO  [main] pages.LoginPage LoginPage.java41 - SalesForce Login page opened
+20230617 11:38:35 INFO  [main] base.BaseTest BaseTest.java136 - Input text cleared
+20230617 11:38:35 INFO  [main] base.BaseTest BaseTest.java136 - Input text cleared
+20230617 11:38:35 INFO  [main] base.BaseTest BaseTest.java136 - Input text cleared
+20230617 11:38:40 INFO  [main] tests.LoginTest LoginTest.java67 - Login to salesforce successful
+20230617 11:38:40 INFO  [main] pages.HomePage HomePage.java39 - On Home Page
+20230617 11:38:41 INFO  [main] base.BaseTest BaseTest.java162 - Element not clickable
+20230617 11:39:16 INFO  [main] pages.LoginPage LoginPage.java41 - SalesForce Login page opened
+20230617 11:39:16 INFO  [main] base.BaseTest BaseTest.java136 - Input text cleared
+20230617 11:39:17 INFO  [main] base.BaseTest BaseTest.java136 - Input text cleared
+20230617 11:39:17 INFO  [main] base.BaseTest BaseTest.java136 - Input text cleared
+20230617 11:39:21 INFO  [main] tests.LoginTest LoginTest.java67 - Login to salesforce successful
+20230617 11:39:21 INFO  [main] pages.HomePage HomePage.java39 - On Home Page
+20230617 11:44:14 INFO  [main] pages.LoginPage LoginPage.java41 - SalesForce Login page opened
+20230617 11:44:15 INFO  [main] base.BaseTest BaseTest.java136 - Input text cleared
+20230617 11:44:15 INFO  [main] base.BaseTest BaseTest.java136 - Input text cleared
+20230617 11:44:15 INFO  [main] base.BaseTest BaseTest.java136 - Input text cleared
+20230617 11:44:19 INFO  [main] tests.LoginTest LoginTest.java67 - Login to salesforce successful
+20230617 11:44:19 INFO  [main] pages.HomePage HomePage.java39 - On Home Page
+20230617 12:01:37 INFO  [main] pages.LoginPage LoginPage.java41 - SalesForce Login page opened
+20230617 12:01:37 INFO  [main] base.BaseTest BaseTest.java136 - Input text cleared
+20230617 12:01:37 INFO  [main] base.BaseTest BaseTest.java136 - Input text cleared
+20230617 12:01:37 INFO  [main] base.BaseTest BaseTest.java136 - Input text cleared
+20230617 12:01:42 INFO  [main] tests.LoginTest LoginTest.java67 - Login to salesforce successful
+20230617 12:01:42 INFO  [main] pages.HomePage HomePage.java39 - On Home Page
+20230617 12:05:19 INFO  [main] pages.LoginPage LoginPage.java41 - SalesForce Login page opened
+20230617 12:05:19 INFO  [main] base.BaseTest BaseTest.java136 - Input text cleared
+20230617 12:05:19 INFO  [main] base.BaseTest BaseTest.java136 - Input text cleared
+20230617 12:05:19 INFO  [main] base.BaseTest BaseTest.java136 - Input text cleared
+20230617 12:05:24 INFO  [main] tests.LoginTest LoginTest.java67 - Login to salesforce successful
+20230617 12:05:24 INFO  [main] pages.HomePage HomePage.java39 - On Home Page
+20230617 12:11:36 INFO  [main] pages.LoginPage LoginPage.java41 - SalesForce Login page opened
+20230617 12:11:36 INFO  [main] base.BaseTest BaseTest.java136 - Input text cleared
+20230617 12:11:36 INFO  [main] base.BaseTest BaseTest.java136 - Input text cleared
+20230617 12:11:36 INFO  [main] base.BaseTest BaseTest.java136 - Input text cleared
+20230617 12:11:40 INFO  [main] tests.LoginTest LoginTest.java67 - Login to salesforce successful
+20230617 12:11:40 INFO  [main] pages.HomePage HomePage.java39 - On Home Page
+20230617 12:12:26 INFO  [main] pages.LoginPage LoginPage.java41 - SalesForce Login page opened
+20230617 12:12:26 INFO  [main] base.BaseTest BaseTest.java136 - Input text cleared
+20230617 12:12:26 INFO  [main] base.BaseTest BaseTest.java136 - Input text cleared
+20230617 12:12:26 INFO  [main] base.BaseTest BaseTest.java136 - Input text cleared
+20230617 12:12:31 INFO  [main] tests.LoginTest LoginTest.java67 - Login to salesforce successful
+20230617 12:12:31 INFO  [main] pages.HomePage HomePage.java39 - On Home Page
+20230617 12:12:58 INFO  [main] pages.LoginPage LoginPage.java41 - SalesForce Login page opened
+20230617 12:12:58 INFO  [main] base.BaseTest BaseTest.java136 - Input text cleared
+20230617 12:12:58 INFO  [main] base.BaseTest BaseTest.java136 - Input text cleared
+20230617 12:12:59 INFO  [main] base.BaseTest BaseTest.java136 - Input text cleared
+20230617 12:13:03 INFO  [main] tests.LoginTest LoginTest.java67 - Login to salesforce successful
+20230617 12:13:03 INFO  [main] pages.HomePage HomePage.java39 - On Home Page
+20230617 12:13:06 INFO  [main] base.BaseTest BaseTest.java162 - Element not clickable
+20230617 12:24:31 INFO  [main] pages.LoginPage LoginPage.java41 - SalesForce Login page opened
+20230617 12:24:31 INFO  [main] base.BaseTest BaseTest.java136 - Input text cleared
+20230617 12:24:31 INFO  [main] base.BaseTest BaseTest.java136 - Input text cleared
+20230617 12:24:31 INFO  [main] base.BaseTest BaseTest.java136 - Input text cleared
+20230617 12:24:36 INFO  [main] tests.LoginTest LoginTest.java67 - Login to salesforce successful
+20230617 12:24:36 INFO  [main] pages.HomePage HomePage.java39 - On Home Page
+20230617 12:40:14 INFO  [main] pages.LoginPage LoginPage.java41 - SalesForce Login page opened
+20230617 12:40:14 INFO  [main] base.BaseTest BaseTest.java136 - Input text cleared
+20230617 12:40:15 INFO  [main] base.BaseTest BaseTest.java136 - Input text cleared
+20230617 12:40:15 INFO  [main] base.BaseTest BaseTest.java136 - Input text cleared
+20230617 12:40:19 INFO  [main] tests.LoginTest LoginTest.java67 - Login to salesforce successful
+20230617 12:40:19 INFO  [main] pages.HomePage HomePage.java39 - On Home Page
+20230617 12:41:36 INFO  [main] pages.LoginPage LoginPage.java41 - SalesForce Login page opened
+20230617 12:41:36 INFO  [main] base.BaseTest BaseTest.java136 - Input text cleared
+20230617 12:41:36 INFO  [main] base.BaseTest BaseTest.java136 - Input text cleared
+20230617 12:41:36 INFO  [main] base.BaseTest BaseTest.java136 - Input text cleared
+20230617 12:41:41 INFO  [main] tests.LoginTest LoginTest.java67 - Login to salesforce successful
+20230617 12:41:41 INFO  [main] pages.HomePage HomePage.java39 - On Home Page
+20230617 12:41:43 INFO  [main] base.BaseTest BaseTest.java162 - Element not clickable
+20230617 12:43:38 INFO  [main] pages.LoginPage LoginPage.java41 - SalesForce Login page opened
+20230617 12:43:38 INFO  [main] base.BaseTest BaseTest.java136 - Input text cleared
+20230617 12:43:38 INFO  [main] base.BaseTest BaseTest.java136 - Input text cleared
+20230617 12:43:38 INFO  [main] base.BaseTest BaseTest.java136 - Input text cleared
+20230617 12:43:43 INFO  [main] tests.LoginTest LoginTest.java67 - Login to salesforce successful
+20230617 12:43:43 INFO  [main] pages.HomePage HomePage.java39 - On Home Page
+20230617 12:44:34 INFO  [main] pages.LoginPage LoginPage.java41 - SalesForce Login page opened
+20230617 12:44:34 INFO  [main] base.BaseTest BaseTest.java136 - Input text cleared
+20230617 12:44:34 INFO  [main] base.BaseTest BaseTest.java136 - Input text cleared
+20230617 12:44:34 INFO  [main] base.BaseTest BaseTest.java136 - Input text cleared
+20230617 12:44:38 INFO  [main] tests.LoginTest LoginTest.java67 - Login to salesforce successful
+20230617 12:44:38 INFO  [main] pages.HomePage HomePage.java39 - On Home Page
+20230617 12:44:42 INFO  [main] base.BaseTest BaseTest.java162 - Element not clickable
+20230617 12:45:57 INFO  [main] pages.LoginPage LoginPage.java41 - SalesForce Login page opened
+20230617 12:45:58 INFO  [main] base.BaseTest BaseTest.java136 - Input text cleared
+20230617 12:45:58 INFO  [main] base.BaseTest BaseTest.java136 - Input text cleared
+20230617 12:45:58 INFO  [main] base.BaseTest BaseTest.java136 - Input text cleared
+20230617 12:46:02 INFO  [main] tests.LoginTest LoginTest.java67 - Login to salesforce successful
+20230617 12:46:02 INFO  [main] pages.HomePage HomePage.java39 - On Home Page
+20230617 12:46:07 INFO  [main] pages.LoginPage LoginPage.java41 - SalesForce Login page opened
+20230617 12:51:20 INFO  [main] pages.LoginPage LoginPage.java41 - SalesForce Login page opened
+20230617 12:51:21 INFO  [main] base.BaseTest BaseTest.java136 - Input text cleared
+20230617 12:51:21 INFO  [main] base.BaseTest BaseTest.java136 - Input text cleared
+20230617 12:51:21 INFO  [main] base.BaseTest BaseTest.java136 - Input text cleared
+20230617 12:51:26 INFO  [main] tests.LoginTest LoginTest.java67 - Login to salesforce successful
+20230617 12:51:26 INFO  [main] pages.HomePage HomePage.java39 - On Home Page
+20230617 12:51:31 INFO  [main] pages.LoginPage LoginPage.java41 - SalesForce Login page opened
+20230617 12:52:53 INFO  [main] pages.LoginPage LoginPage.java41 - SalesForce Login page opened
+20230617 12:52:53 INFO  [main] base.BaseTest BaseTest.java136 - Input text cleared
+20230617 12:52:53 INFO  [main] base.BaseTest BaseTest.java136 - Input text cleared
+20230617 12:52:53 INFO  [main] base.BaseTest BaseTest.java136 - Input text cleared
+20230617 12:52:58 INFO  [main] tests.LoginTest LoginTest.java67 - Login to salesforce successful
+20230617 12:52:58 INFO  [main] pages.HomePage HomePage.java39 - On Home Page
+20230617 12:53:00 INFO  [main] base.BaseTest BaseTest.java162 - Element not clickable
+20230617 12:53:54 INFO  [main] pages.LoginPage LoginPage.java41 - SalesForce Login page opened
+20230617 12:53:54 INFO  [main] base.BaseTest BaseTest.java136 - Input text cleared
+20230617 12:53:54 INFO  [main] base.BaseTest BaseTest.java136 - Input text cleared
+20230617 12:53:54 INFO  [main] base.BaseTest BaseTest.java136 - Input text cleared
+20230617 12:53:59 INFO  [main] tests.LoginTest LoginTest.java67 - Login to salesforce successful
+20230617 12:53:59 INFO  [main] pages.HomePage HomePage.java39 - On Home Page
+20230617 12:54:06 INFO  [main] pages.LoginPage LoginPage.java41 - SalesForce Login page opened
+20230617 12:55:10 INFO  [main] pages.LoginPage LoginPage.java41 - SalesForce Login page opened
+20230617 12:55:11 INFO  [main] base.BaseTest BaseTest.java136 - Input text cleared
+20230617 12:55:11 INFO  [main] base.BaseTest BaseTest.java136 - Input text cleared
+20230617 12:55:11 INFO  [main] base.BaseTest BaseTest.java136 - Input text cleared
+20230617 12:55:15 INFO  [main] tests.LoginTest LoginTest.java67 - Login to salesforce successful
+20230617 12:55:15 INFO  [main] pages.HomePage HomePage.java39 - On Home Page
+20230617 13:00:42 INFO  [main] pages.LoginPage LoginPage.java41 - SalesForce Login page opened
+20230617 13:00:42 INFO  [main] base.BaseTest BaseTest.java136 - Input text cleared
+20230617 13:00:42 INFO  [main] base.BaseTest BaseTest.java136 - Input text cleared
+20230617 13:00:42 INFO  [main] base.BaseTest BaseTest.java136 - Input text cleared
+20230617 13:01:07 INFO  [main] pages.LoginPage LoginPage.java41 - SalesForce Login page opened
+20230617 13:01:07 INFO  [main] base.BaseTest BaseTest.java136 - Input text cleared
+20230617 13:01:07 INFO  [main] base.BaseTest BaseTest.java136 - Input text cleared
+20230617 13:01:07 INFO  [main] base.BaseTest BaseTest.java136 - Input text cleared
+20230617 13:01:12 INFO  [main] tests.LoginTest LoginTest.java67 - Login to salesforce successful
+20230617 13:01:12 INFO  [main] pages.HomePage HomePage.java39 - On Home Page
+20230617 13:01:19 INFO  [main] pages.LoginPage LoginPage.java41 - SalesForce Login page opened
+20230617 13:02:18 INFO  [main] pages.LoginPage LoginPage.java41 - SalesForce Login page opened
+20230617 13:02:18 INFO  [main] base.BaseTest BaseTest.java136 - Input text cleared
+20230617 13:02:18 INFO  [main] base.BaseTest BaseTest.java136 - Input text cleared
+20230617 13:02:18 INFO  [main] base.BaseTest BaseTest.java136 - Input text cleared
+20230617 13:02:22 INFO  [main] tests.LoginTest LoginTest.java67 - Login to salesforce successful
+20230617 13:02:22 INFO  [main] pages.HomePage HomePage.java39 - On Home Page
+20230617 13:02:25 INFO  [main] base.BaseTest BaseTest.java162 - Element not clickable
+20230617 13:05:59 INFO  [main] pages.LoginPage LoginPage.java41 - SalesForce Login page opened
+20230617 13:05:59 INFO  [main] base.BaseTest BaseTest.java136 - Input text cleared
+20230617 13:05:59 INFO  [main] base.BaseTest BaseTest.java136 - Input text cleared
+20230617 13:06:00 INFO  [main] base.BaseTest BaseTest.java136 - Input text cleared
+20230617 13:06:04 INFO  [main] tests.LoginTest LoginTest.java67 - Login to salesforce successful
+20230617 13:06:04 INFO  [main] pages.HomePage HomePage.java39 - On Home Page
+20230617 13:06:12 INFO  [main] pages.LoginPage LoginPage.java41 - SalesForce Login page opened
+20230617 13:08:56 INFO  [main] pages.LoginPage LoginPage.java41 - SalesForce Login page opened
+20230617 13:08:56 INFO  [main] base.BaseTest BaseTest.java136 - Input text cleared
+20230617 13:08:56 INFO  [main] base.BaseTest BaseTest.java136 - Input text cleared
+20230617 13:08:56 INFO  [main] base.BaseTest BaseTest.java136 - Input text cleared
+20230617 13:09:00 INFO  [main] tests.LoginTest LoginTest.java67 - Login to salesforce successful
+20230617 13:09:00 INFO  [main] pages.HomePage HomePage.java39 - On Home Page
+20230617 13:09:03 INFO  [main] base.BaseTest BaseTest.java162 - Element not clickable
+20230617 13:09:30 INFO  [main] pages.LoginPage LoginPage.java41 - SalesForce Login page opened
+20230617 13:09:30 INFO  [main] base.BaseTest BaseTest.java136 - Input text cleared
+20230617 13:09:30 INFO  [main] base.BaseTest BaseTest.java136 - Input text cleared
+20230617 13:09:30 INFO  [main] base.BaseTest BaseTest.java136 - Input text cleared
+20230617 13:09:35 INFO  [main] tests.LoginTest LoginTest.java67 - Login to salesforce successful
+20230617 13:09:35 INFO  [main] pages.HomePage HomePage.java39 - On Home Page
+20230617 13:09:41 INFO  [main] base.BaseTest BaseTest.java162 - Element not clickable
+20230617 13:12:05 INFO  [main] pages.LoginPage LoginPage.java41 - SalesForce Login page opened
+20230617 13:12:05 INFO  [main] base.BaseTest BaseTest.java136 - Input text cleared
+20230617 13:12:05 INFO  [main] base.BaseTest BaseTest.java136 - Input text cleared
+20230617 13:12:05 INFO  [main] base.BaseTest BaseTest.java136 - Input text cleared
+20230617 13:12:10 INFO  [main] tests.LoginTest LoginTest.java67 - Login to salesforce successful
+20230617 13:12:10 INFO  [main] pages.HomePage HomePage.java39 - On Home Page
+20230617 13:12:13 INFO  [main] base.BaseTest BaseTest.java162 - Element not clickable
+20230617 13:12:47 INFO  [main] pages.LoginPage LoginPage.java41 - SalesForce Login page opened
+20230617 13:12:47 INFO  [main] base.BaseTest BaseTest.java136 - Input text cleared
+20230617 13:12:47 INFO  [main] base.BaseTest BaseTest.java136 - Input text cleared
+20230617 13:12:47 INFO  [main] base.BaseTest BaseTest.java136 - Input text cleared
+20230617 13:12:52 INFO  [main] tests.LoginTest LoginTest.java67 - Login to salesforce successful
+20230617 13:12:52 INFO  [main] pages.HomePage HomePage.java39 - On Home Page
+20230617 13:19:20 INFO  [main] pages.LoginPage LoginPage.java41 - SalesForce Login page opened
+20230617 13:19:20 INFO  [main] base.BaseTest BaseTest.java136 - Input text cleared
+20230617 13:19:20 INFO  [main] base.BaseTest BaseTest.java136 - Input text cleared
+20230617 13:19:20 INFO  [main] base.BaseTest BaseTest.java136 - Input text cleared
+20230617 13:19:24 INFO  [main] tests.LoginTest LoginTest.java67 - Login to salesforce successful
+20230617 13:19:24 INFO  [main] pages.HomePage HomePage.java39 - On Home Page
+20230617 13:19:27 INFO  [main] base.BaseTest BaseTest.java162 - Element not clickable
+20230617 13:20:24 INFO  [main] pages.LoginPage LoginPage.java41 - SalesForce Login page opened
+20230617 13:20:24 INFO  [main] base.BaseTest BaseTest.java136 - Input text cleared
+20230617 13:20:24 INFO  [main] base.BaseTest BaseTest.java136 - Input text cleared
+20230617 13:20:24 INFO  [main] base.BaseTest BaseTest.java136 - Input text cleared
+20230617 13:20:29 INFO  [main] tests.LoginTest LoginTest.java67 - Login to salesforce successful
+20230617 13:20:29 INFO  [main] pages.HomePage HomePage.java39 - On Home Page
+20230617 13:20:36 INFO  [main] pages.LoginPage LoginPage.java41 - SalesForce Login page opened
+20230617 13:20:36 INFO  [main] base.BaseTest BaseTest.java136 - Input text cleared
+20230617 13:20:37 INFO  [main] base.BaseTest BaseTest.java136 - Input text cleared
+20230617 13:20:37 INFO  [main] base.BaseTest BaseTest.java136 - Input text cleared
+20230617 13:22:19 INFO  [main] pages.LoginPage LoginPage.java41 - SalesForce Login page opened
+20230617 13:22:19 INFO  [main] base.BaseTest BaseTest.java136 - Input text cleared
+20230617 13:22:20 INFO  [main] base.BaseTest BaseTest.java136 - Input text cleared
+20230617 13:22:20 INFO  [main] base.BaseTest BaseTest.java136 - Input text cleared
+20230617 13:22:24 INFO  [main] tests.LoginTest LoginTest.java67 - Login to salesforce successful
+20230617 13:22:24 INFO  [main] pages.HomePage HomePage.java39 - On Home Page
+20230617 13:23:39 INFO  [main] pages.LoginPage LoginPage.java41 - SalesForce Login page opened
+20230617 13:23:39 INFO  [main] base.BaseTest BaseTest.java136 - Input text cleared
+20230617 13:23:40 INFO  [main] base.BaseTest BaseTest.java136 - Input text cleared
+20230617 13:23:40 INFO  [main] base.BaseTest BaseTest.java136 - Input text cleared
+20230617 13:23:46 INFO  [main] tests.LoginTest LoginTest.java67 - Login to salesforce successful
+20230617 13:23:46 INFO  [main] pages.HomePage HomePage.java39 - On Home Page
+20230617 13:23:49 INFO  [main] base.BaseTest BaseTest.java162 - Element not clickable
+20230617 13:24:56 INFO  [main] pages.LoginPage LoginPage.java41 - SalesForce Login page opened
+20230617 13:24:57 INFO  [main] base.BaseTest BaseTest.java136 - Input text cleared
+20230617 13:24:57 INFO  [main] base.BaseTest BaseTest.java136 - Input text cleared
+20230617 13:24:57 INFO  [main] base.BaseTest BaseTest.java136 - Input text cleared
+20230617 13:25:02 INFO  [main] tests.LoginTest LoginTest.java67 - Login to salesforce successful
+20230617 13:25:02 INFO  [main] pages.HomePage HomePage.java39 - On Home Page
+20230617 13:26:03 INFO  [main] pages.LoginPage LoginPage.java41 - SalesForce Login page opened
+20230617 13:26:09 INFO  [main] base.BaseTest BaseTest.java136 - Input text cleared
+20230617 13:26:10 INFO  [main] base.BaseTest BaseTest.java136 - Input text cleared
+20230617 13:26:11 INFO  [main] base.BaseTest BaseTest.java136 - Input text cleared
+20230617 14:21:12 INFO  [main] pages.LoginPage LoginPage.java41 - SalesForce Login page opened
+20230617 14:21:12 INFO  [main] base.BaseTest BaseTest.java136 - Input text cleared
+20230617 14:21:13 INFO  [main] base.BaseTest BaseTest.java136 - Input text cleared
+20230617 14:21:13 INFO  [main] base.BaseTest BaseTest.java136 - Input text cleared
+20230617 14:21:18 INFO  [main] tests.LoginTest LoginTest.java67 - Login to salesforce successful
+20230617 14:21:18 INFO  [main] pages.HomePage HomePage.java39 - On Home Page
+20230617 14:21:26 INFO  [main] pages.LoginPage LoginPage.java41 - SalesForce Login page opened
+20230617 14:21:26 INFO  [main] base.BaseTest BaseTest.java136 - Input text cleared
+20230617 14:21:26 INFO  [main] base.BaseTest BaseTest.java136 - Input text cleared
+20230617 14:21:27 INFO  [main] base.BaseTest BaseTest.java136 - Input text cleared
+20230617 15:51:21 INFO  [main] pages.LoginPage LoginPage.java41 - SalesForce Login page opened
+20230617 15:51:21 INFO  [main] base.BaseTest BaseTest.java136 - Input text cleared
+20230617 15:51:21 INFO  [main] base.BaseTest BaseTest.java136 - Input text cleared
+20230617 15:51:22 INFO  [main] base.BaseTest BaseTest.java136 - Input text cleared
+20230617 15:51:26 INFO  [main] tests.LoginTest LoginTest.java67 - Login to salesforce successful
+20230617 15:51:26 INFO  [main] pages.HomePage HomePage.java39 - On Home Page
+20230617 15:51:29 INFO  [main] base.BaseTest BaseTest.java162 - Element not clickable
+20230617 15:52:07 INFO  [main] pages.LoginPage LoginPage.java41 - SalesForce Login page opened
+20230617 15:52:07 INFO  [main] base.BaseTest BaseTest.java136 - Input text cleared
+20230617 15:52:08 INFO  [main] base.BaseTest BaseTest.java136 - Input text cleared
+20230617 15:52:08 INFO  [main] base.BaseTest BaseTest.java136 - Input text cleared
+20230617 15:52:13 INFO  [main] tests.LoginTest LoginTest.java67 - Login to salesforce successful
+20230617 15:52:13 INFO  [main] pages.HomePage HomePage.java39 - On Home Page
+20230617 15:52:49 INFO  [main] pages.HomePage HomePage.java288 - Todays's Lead Page displayed
+20230617 16:03:41 INFO  [main] pages.LoginPage LoginPage.java41 - SalesForce Login page opened
+20230617 16:03:42 INFO  [main] base.BaseTest BaseTest.java136 - Input text cleared
+20230617 16:03:42 INFO  [main] base.BaseTest BaseTest.java136 - Input text cleared
+20230617 16:03:42 INFO  [main] base.BaseTest BaseTest.java136 - Input text cleared
+20230617 16:03:47 INFO  [main] tests.LoginTest LoginTest.java67 - Login to salesforce successful
+20230617 16:03:47 INFO  [main] pages.HomePage HomePage.java39 - On Home Page
+20230617 16:03:50 INFO  [main] base.BaseTest BaseTest.java162 - Element not clickable
+20230617 16:04:44 INFO  [main] pages.LoginPage LoginPage.java41 - SalesForce Login page opened
+20230617 16:04:44 INFO  [main] base.BaseTest BaseTest.java136 - Input text cleared
+20230617 16:04:45 INFO  [main] base.BaseTest BaseTest.java136 - Input text cleared
+20230617 16:04:45 INFO  [main] base.BaseTest BaseTest.java136 - Input text cleared
+20230617 16:04:50 INFO  [main] tests.LoginTest LoginTest.java67 - Login to salesforce successful
+20230617 16:04:50 INFO  [main] pages.HomePage HomePage.java39 - On Home Page
+20230617 16:04:59 INFO  [main] base.BaseTest BaseTest.java136 - Input text cleared
+20230617 16:04:59 INFO  [main] base.BaseTest BaseTest.java136 - Input text cleared
+20230617 16:04:59 INFO  [main] pages.HomePage HomePage.java305 - New Lead View Created
+20230617 16:16:06 INFO  [main] pages.LoginPage LoginPage.java41 - SalesForce Login page opened
+20230617 16:16:06 INFO  [main] base.BaseTest BaseTest.java136 - Input text cleared
+20230617 16:16:06 INFO  [main] base.BaseTest BaseTest.java136 - Input text cleared
+20230617 16:16:07 INFO  [main] base.BaseTest BaseTest.java136 - Input text cleared
+20230617 16:16:12 INFO  [main] tests.LoginTest LoginTest.java67 - Login to salesforce successful
+20230617 16:16:12 INFO  [main] pages.HomePage HomePage.java39 - On Home Page
+20230617 16:16:51 INFO  [main] pages.LoginPage LoginPage.java41 - SalesForce Login page opened
+20230617 16:16:51 INFO  [main] base.BaseTest BaseTest.java136 - Input text cleared
+20230617 16:16:51 INFO  [main] base.BaseTest BaseTest.java136 - Input text cleared
+20230617 16:16:51 INFO  [main] base.BaseTest BaseTest.java136 - Input text cleared
+20230617 16:16:56 INFO  [main] tests.LoginTest LoginTest.java67 - Login to salesforce successful
+20230617 16:16:56 INFO  [main] pages.HomePage HomePage.java39 - On Home Page
+20230617 16:18:37 INFO  [main] pages.LoginPage LoginPage.java41 - SalesForce Login page opened
+20230617 16:18:38 INFO  [main] base.BaseTest BaseTest.java136 - Input text cleared
+20230617 16:18:38 INFO  [main] base.BaseTest BaseTest.java136 - Input text cleared
+20230617 16:18:38 INFO  [main] base.BaseTest BaseTest.java136 - Input text cleared
+20230617 16:18:43 INFO  [main] tests.LoginTest LoginTest.java67 - Login to salesforce successful
+20230617 16:18:43 INFO  [main] pages.HomePage HomePage.java39 - On Home Page
+20230617 16:19:24 INFO  [main] pages.LoginPage LoginPage.java41 - SalesForce Login page opened
+20230617 16:19:24 INFO  [main] base.BaseTest BaseTest.java136 - Input text cleared
+20230617 16:19:24 INFO  [main] base.BaseTest BaseTest.java136 - Input text cleared
+20230617 16:19:24 INFO  [main] base.BaseTest BaseTest.java136 - Input text cleared
+20230617 16:19:29 INFO  [main] tests.LoginTest LoginTest.java67 - Login to salesforce successful
+20230617 16:19:29 INFO  [main] pages.HomePage HomePage.java39 - On Home Page
+20230617 16:20:54 INFO  [main] pages.LoginPage LoginPage.java41 - SalesForce Login page opened
+20230617 16:20:54 INFO  [main] base.BaseTest BaseTest.java136 - Input text cleared
+20230617 16:20:55 INFO  [main] base.BaseTest BaseTest.java136 - Input text cleared
+20230617 16:20:55 INFO  [main] base.BaseTest BaseTest.java136 - Input text cleared
+20230617 16:21:00 INFO  [main] tests.LoginTest LoginTest.java67 - Login to salesforce successful
+20230617 16:21:00 INFO  [main] pages.HomePage HomePage.java39 - On Home Page
+20230617 16:22:17 INFO  [main] pages.LoginPage LoginPage.java41 - SalesForce Login page opened
+20230617 16:22:18 INFO  [main] base.BaseTest BaseTest.java136 - Input text cleared
+20230617 16:22:18 INFO  [main] base.BaseTest BaseTest.java136 - Input text cleared
+20230617 16:22:18 INFO  [main] base.BaseTest BaseTest.java136 - Input text cleared
+20230617 16:22:23 INFO  [main] tests.LoginTest LoginTest.java67 - Login to salesforce successful
+20230617 16:22:23 INFO  [main] pages.HomePage HomePage.java39 - On Home Page
+20230617 16:23:11 INFO  [main] pages.LoginPage LoginPage.java41 - SalesForce Login page opened
+20230617 16:23:11 INFO  [main] base.BaseTest BaseTest.java136 - Input text cleared
+20230617 16:23:12 INFO  [main] base.BaseTest BaseTest.java136 - Input text cleared
+20230617 16:23:12 INFO  [main] base.BaseTest BaseTest.java136 - Input text cleared
+20230617 16:23:17 INFO  [main] tests.LoginTest LoginTest.java67 - Login to salesforce successful
+20230617 16:23:17 INFO  [main] pages.HomePage HomePage.java39 - On Home Page
+20230617 16:27:32 INFO  [main] pages.LoginPage LoginPage.java41 - SalesForce Login page opened
+20230617 16:27:32 INFO  [main] base.BaseTest BaseTest.java136 - Input text cleared
+20230617 16:27:33 INFO  [main] base.BaseTest BaseTest.java136 - Input text cleared
+20230617 16:27:33 INFO  [main] base.BaseTest BaseTest.java136 - Input text cleared
+20230617 16:27:38 INFO  [main] tests.LoginTest LoginTest.java67 - Login to salesforce successful
+20230617 16:27:38 INFO  [main] pages.HomePage HomePage.java39 - On Home Page
+20230617 16:27:48 INFO  [main] base.BaseTest BaseTest.java162 - Element not clickable
+20230617 16:30:37 INFO  [main] pages.LoginPage LoginPage.java41 - SalesForce Login page opened
+20230617 16:30:37 INFO  [main] base.BaseTest BaseTest.java136 - Input text cleared
+20230617 16:30:37 INFO  [main] base.BaseTest BaseTest.java136 - Input text cleared
+20230617 16:30:37 INFO  [main] base.BaseTest BaseTest.java136 - Input text cleared
+20230617 16:30:42 INFO  [main] tests.LoginTest LoginTest.java67 - Login to salesforce successful
+20230617 16:30:42 INFO  [main] pages.HomePage HomePage.java39 - On Home Page
+20230617 16:31:25 INFO  [main] pages.LoginPage LoginPage.java41 - SalesForce Login page opened
+20230617 16:31:25 INFO  [main] base.BaseTest BaseTest.java136 - Input text cleared
+20230617 16:31:26 INFO  [main] base.BaseTest BaseTest.java136 - Input text cleared
+20230617 16:31:26 INFO  [main] base.BaseTest BaseTest.java136 - Input text cleared
+20230617 16:31:31 INFO  [main] tests.LoginTest LoginTest.java67 - Login to salesforce successful
+20230617 16:31:31 INFO  [main] pages.HomePage HomePage.java39 - On Home Page
+20230617 16:31:36 INFO  [main] base.BaseTest BaseTest.java162 - Element not clickable
+20230617 16:32:09 INFO  [main] pages.LoginPage LoginPage.java41 - SalesForce Login page opened
+20230617 16:32:09 INFO  [main] base.BaseTest BaseTest.java136 - Input text cleared
+20230617 16:32:09 INFO  [main] base.BaseTest BaseTest.java136 - Input text cleared
+20230617 16:32:09 INFO  [main] base.BaseTest BaseTest.java136 - Input text cleared
+20230617 16:32:14 INFO  [main] tests.LoginTest LoginTest.java67 - Login to salesforce successful
+20230617 16:32:14 INFO  [main] pages.HomePage HomePage.java39 - On Home Page
+20230617 16:32:23 INFO  [main] base.BaseTest BaseTest.java162 - Element not clickable
+20230617 16:32:44 INFO  [main] pages.LoginPage LoginPage.java41 - SalesForce Login page opened
+20230617 16:32:44 INFO  [main] base.BaseTest BaseTest.java136 - Input text cleared
+20230617 16:32:44 INFO  [main] base.BaseTest BaseTest.java136 - Input text cleared
+20230617 16:32:44 INFO  [main] base.BaseTest BaseTest.java136 - Input text cleared
+20230617 16:32:49 INFO  [main] tests.LoginTest LoginTest.java67 - Login to salesforce successful
+20230617 16:32:49 INFO  [main] pages.HomePage HomePage.java39 - On Home Page
+20230617 16:33:42 INFO  [main] base.BaseTest BaseTest.java162 - Element not clickable
+20230617 16:35:07 INFO  [main] pages.LoginPage LoginPage.java41 - SalesForce Login page opened
+20230617 16:35:07 INFO  [main] base.BaseTest BaseTest.java136 - Input text cleared
+20230617 16:35:07 INFO  [main] base.BaseTest BaseTest.java136 - Input text cleared
+20230617 16:35:07 INFO  [main] base.BaseTest BaseTest.java136 - Input text cleared
+20230617 16:35:12 INFO  [main] tests.LoginTest LoginTest.java67 - Login to salesforce successful
+20230617 16:35:12 INFO  [main] pages.HomePage HomePage.java39 - On Home Page
+20230617 16:35:20 INFO  [main] base.BaseTest BaseTest.java162 - Element not clickable
+20230617 16:36:03 INFO  [main] pages.LoginPage LoginPage.java41 - SalesForce Login page opened
+20230617 16:36:03 INFO  [main] base.BaseTest BaseTest.java136 - Input text cleared
+20230617 16:36:03 INFO  [main] base.BaseTest BaseTest.java136 - Input text cleared
+20230617 16:36:03 INFO  [main] base.BaseTest BaseTest.java136 - Input text cleared
+20230617 16:36:08 INFO  [main] tests.LoginTest LoginTest.java67 - Login to salesforce successful
+20230617 16:36:08 INFO  [main] pages.HomePage HomePage.java39 - On Home Page
+20230617 16:36:19 INFO  [main] base.BaseTest BaseTest.java162 - Element not clickable
+20230617 16:37:32 INFO  [main] pages.LoginPage LoginPage.java41 - SalesForce Login page opened
+20230617 16:37:32 INFO  [main] base.BaseTest BaseTest.java136 - Input text cleared
+20230617 16:37:32 INFO  [main] base.BaseTest BaseTest.java136 - Input text cleared
+20230617 16:37:32 INFO  [main] base.BaseTest BaseTest.java136 - Input text cleared
+20230617 16:37:37 INFO  [main] tests.LoginTest LoginTest.java67 - Login to salesforce successful
+20230617 16:37:37 INFO  [main] pages.HomePage HomePage.java39 - On Home Page
+20230617 16:39:19 INFO  [main] pages.LoginPage LoginPage.java41 - SalesForce Login page opened
+20230617 16:39:19 INFO  [main] base.BaseTest BaseTest.java136 - Input text cleared
+20230617 16:39:20 INFO  [main] base.BaseTest BaseTest.java136 - Input text cleared
+20230617 16:39:20 INFO  [main] base.BaseTest BaseTest.java136 - Input text cleared
+20230617 16:39:38 INFO  [main] pages.LoginPage LoginPage.java41 - SalesForce Login page opened
+20230617 16:39:38 INFO  [main] base.BaseTest BaseTest.java136 - Input text cleared
+20230617 16:39:39 INFO  [main] base.BaseTest BaseTest.java136 - Input text cleared
+20230617 16:39:39 INFO  [main] base.BaseTest BaseTest.java136 - Input text cleared
+20230617 16:39:44 INFO  [main] tests.LoginTest LoginTest.java67 - Login to salesforce successful
+20230617 16:39:44 INFO  [main] pages.HomePage HomePage.java39 - On Home Page
+20230617 16:39:53 INFO  [main] base.BaseTest BaseTest.java136 - Input text cleared
+20230617 16:39:54 INFO  [main] base.BaseTest BaseTest.java136 - Input text cleared
+20230617 16:47:28 INFO  [main] pages.LoginPage LoginPage.java41 - SalesForce Login page opened
+20230617 16:47:28 INFO  [main] base.BaseTest BaseTest.java136 - Input text cleared
+20230617 16:47:29 INFO  [main] base.BaseTest BaseTest.java136 - Input text cleared
+20230617 16:47:29 INFO  [main] base.BaseTest BaseTest.java136 - Input text cleared
+20230617 16:47:34 INFO  [main] tests.LoginTest LoginTest.java67 - Login to salesforce successful
+20230617 16:47:34 INFO  [main] pages.HomePage HomePage.java39 - On Home Page
+20230617 16:48:51 INFO  [main] pages.LoginPage LoginPage.java41 - SalesForce Login page opened
+20230617 16:48:51 INFO  [main] base.BaseTest BaseTest.java136 - Input text cleared
+20230617 16:48:52 INFO  [main] base.BaseTest BaseTest.java136 - Input text cleared
+20230617 16:48:52 INFO  [main] base.BaseTest BaseTest.java136 - Input text cleared
+20230617 16:48:57 INFO  [main] tests.LoginTest LoginTest.java67 - Login to salesforce successful
+20230617 16:48:57 INFO  [main] pages.HomePage HomePage.java39 - On Home Page
+20230617 16:49:04 INFO  [main] base.BaseTest BaseTest.java136 - Input text cleared
+20230617 16:53:27 INFO  [main] pages.LoginPage LoginPage.java41 - SalesForce Login page opened
+20230617 16:53:27 INFO  [main] base.BaseTest BaseTest.java136 - Input text cleared
+20230617 16:53:28 INFO  [main] base.BaseTest BaseTest.java136 - Input text cleared
+20230617 16:53:28 INFO  [main] base.BaseTest BaseTest.java136 - Input text cleared
+20230617 16:53:33 INFO  [main] tests.LoginTest LoginTest.java67 - Login to salesforce successful
+20230617 16:53:33 INFO  [main] pages.HomePage HomePage.java39 - On Home Page
+20230617 16:53:40 INFO  [main] base.BaseTest BaseTest.java136 - Input text cleared
+20230617 16:53:41 INFO  [main] pages.HomePage HomePage.java343 - New Contact View Created
+20230617 17:00:54 INFO  [main] pages.LoginPage LoginPage.java41 - SalesForce Login page opened
+20230617 17:00:55 INFO  [main] base.BaseTest BaseTest.java136 - Input text cleared
+20230617 17:00:55 INFO  [main] base.BaseTest BaseTest.java136 - Input text cleared
+20230617 17:00:55 INFO  [main] base.BaseTest BaseTest.java136 - Input text cleared
+20230617 17:01:01 INFO  [main] tests.LoginTest LoginTest.java67 - Login to salesforce successful
+20230617 17:01:01 INFO  [main] pages.HomePage HomePage.java39 - On Home Page
+20230617 17:01:33 INFO  [main] pages.LoginPage LoginPage.java41 - SalesForce Login page opened
+20230617 17:01:33 INFO  [main] base.BaseTest BaseTest.java136 - Input text cleared
+20230617 17:01:33 INFO  [main] base.BaseTest BaseTest.java136 - Input text cleared
+20230617 17:01:33 INFO  [main] base.BaseTest BaseTest.java136 - Input text cleared
+20230617 17:01:38 INFO  [main] tests.LoginTest LoginTest.java67 - Login to salesforce successful
+20230617 17:01:38 INFO  [main] pages.HomePage HomePage.java39 - On Home Page
+20230617 17:02:12 INFO  [main] pages.LoginPage LoginPage.java41 - SalesForce Login page opened
+20230617 17:02:13 INFO  [main] base.BaseTest BaseTest.java136 - Input text cleared
+20230617 17:02:13 INFO  [main] base.BaseTest BaseTest.java136 - Input text cleared
+20230617 17:02:13 INFO  [main] base.BaseTest BaseTest.java136 - Input text cleared
+20230617 17:02:18 INFO  [main] tests.LoginTest LoginTest.java67 - Login to salesforce successful
+20230617 17:02:18 INFO  [main] pages.HomePage HomePage.java39 - On Home Page
+20230617 17:02:25 INFO  [main] pages.HomePage HomePage.java355 - Recently created contacts displayed
+20230617 17:06:59 INFO  [main] pages.LoginPage LoginPage.java41 - SalesForce Login page opened
+20230617 17:06:59 INFO  [main] base.BaseTest BaseTest.java136 - Input text cleared
+20230617 17:07:00 INFO  [main] base.BaseTest BaseTest.java136 - Input text cleared
+20230617 17:07:00 INFO  [main] base.BaseTest BaseTest.java136 - Input text cleared
+20230617 17:07:05 INFO  [main] tests.LoginTest LoginTest.java67 - Login to salesforce successful
+20230617 17:07:05 INFO  [main] pages.HomePage HomePage.java39 - On Home Page
+20230617 17:07:15 INFO  [main] pages.HomePage HomePage.java370 - My contacts displayed
+20230617 17:10:06 INFO  [main] pages.LoginPage LoginPage.java41 - SalesForce Login page opened
+20230617 17:10:07 INFO  [main] base.BaseTest BaseTest.java136 - Input text cleared
+20230617 17:10:07 INFO  [main] base.BaseTest BaseTest.java136 - Input text cleared
+20230617 17:10:07 INFO  [main] base.BaseTest BaseTest.java136 - Input text cleared
+20230617 17:10:24 INFO  [main] pages.LoginPage LoginPage.java41 - SalesForce Login page opened
+20230617 17:10:24 INFO  [main] base.BaseTest BaseTest.java136 - Input text cleared
+20230617 17:10:24 INFO  [main] base.BaseTest BaseTest.java136 - Input text cleared
+20230617 17:10:24 INFO  [main] base.BaseTest BaseTest.java136 - Input text cleared
+20230617 17:10:28 INFO  [main] tests.LoginTest LoginTest.java67 - Login to salesforce successful
+20230617 17:10:28 INFO  [main] pages.HomePage HomePage.java39 - On Home Page
+20230617 17:10:37 INFO  [main] pages.HomePage HomePage.java383 - Selected Contact displayed
+20230618 08:46:35 INFO  [main] pages.LoginPage LoginPage.java41 - SalesForce Login page opened
+20230618 08:46:36 INFO  [main] base.BaseTest BaseTest.java136 - Input text cleared
+20230618 08:46:36 INFO  [main] base.BaseTest BaseTest.java136 - Input text cleared
+20230618 08:46:36 INFO  [main] base.BaseTest BaseTest.java136 - Input text cleared
+20230618 08:46:40 INFO  [main] tests.LoginTest LoginTest.java67 - Login to salesforce successful
+20230618 08:46:40 INFO  [main] pages.HomePage HomePage.java39 - On Home Page
+20230618 08:47:04 INFO  [main] pages.LoginPage LoginPage.java41 - SalesForce Login page opened
+20230618 08:47:04 INFO  [main] base.BaseTest BaseTest.java136 - Input text cleared
+20230618 08:47:05 INFO  [main] base.BaseTest BaseTest.java136 - Input text cleared
+20230618 08:47:05 INFO  [main] base.BaseTest BaseTest.java136 - Input text cleared
+20230618 08:47:09 INFO  [main] tests.LoginTest LoginTest.java67 - Login to salesforce successful
+20230618 08:47:09 INFO  [main] pages.HomePage HomePage.java39 - On Home Page
+20230618 08:54:26 INFO  [main] pages.LoginPage LoginPage.java41 - SalesForce Login page opened
+20230618 08:54:26 INFO  [main] base.BaseTest BaseTest.java136 - Input text cleared
+20230618 08:54:26 INFO  [main] base.BaseTest BaseTest.java136 - Input text cleared
+20230618 08:54:26 INFO  [main] base.BaseTest BaseTest.java136 - Input text cleared
+20230618 08:54:31 INFO  [main] tests.LoginTest LoginTest.java67 - Login to salesforce successful
+20230618 08:54:31 INFO  [main] pages.HomePage HomePage.java39 - On Home Page
+20230618 08:54:38 INFO  [main] base.BaseTest BaseTest.java136 - Input text cleared
+20230618 09:09:11 INFO  [main] pages.LoginPage LoginPage.java41 - SalesForce Login page opened
+20230618 09:09:11 INFO  [main] base.BaseTest BaseTest.java136 - Input text cleared
+20230618 09:09:12 INFO  [main] base.BaseTest BaseTest.java136 - Input text cleared
+20230618 09:09:12 INFO  [main] base.BaseTest BaseTest.java136 - Input text cleared
+20230618 09:09:16 INFO  [main] tests.LoginTest LoginTest.java67 - Login to salesforce successful
+20230618 09:09:16 INFO  [main] pages.HomePage HomePage.java39 - On Home Page
+20230618 09:09:22 INFO  [main] base.BaseTest BaseTest.java136 - Input text cleared
+20230618 09:09:22 INFO  [main] base.BaseTest BaseTest.java136 - Input text cleared
+20230618 09:09:22 INFO  [main] base.BaseTest BaseTest.java162 - Element not clickable
+20230618 09:12:18 INFO  [main] pages.LoginPage LoginPage.java41 - SalesForce Login page opened
+20230618 09:12:18 INFO  [main] base.BaseTest BaseTest.java136 - Input text cleared
+20230618 09:12:18 INFO  [main] base.BaseTest BaseTest.java136 - Input text cleared
+20230618 09:12:18 INFO  [main] base.BaseTest BaseTest.java136 - Input text cleared
+20230618 09:12:22 INFO  [main] tests.LoginTest LoginTest.java67 - Login to salesforce successful
+20230618 09:12:22 INFO  [main] pages.HomePage HomePage.java39 - On Home Page
+20230618 09:12:28 INFO  [main] base.BaseTest BaseTest.java136 - Input text cleared
+20230618 09:12:28 INFO  [main] base.BaseTest BaseTest.java136 - Input text cleared
+20230618 09:12:28 INFO  [main] base.BaseTest BaseTest.java162 - Element not clickable
+20230618 09:13:59 INFO  [main] pages.LoginPage LoginPage.java41 - SalesForce Login page opened
+20230618 09:13:59 INFO  [main] base.BaseTest BaseTest.java136 - Input text cleared
+20230618 09:13:59 INFO  [main] base.BaseTest BaseTest.java136 - Input text cleared
+20230618 09:13:59 INFO  [main] base.BaseTest BaseTest.java136 - Input text cleared
+20230618 09:14:15 INFO  [main] pages.LoginPage LoginPage.java41 - SalesForce Login page opened
+20230618 09:14:15 INFO  [main] base.BaseTest BaseTest.java136 - Input text cleared
+20230618 09:14:15 INFO  [main] base.BaseTest BaseTest.java136 - Input text cleared
+20230618 09:14:15 INFO  [main] base.BaseTest BaseTest.java136 - Input text cleared
+20230618 09:14:19 INFO  [main] tests.LoginTest LoginTest.java67 - Login to salesforce successful
+20230618 09:14:19 INFO  [main] pages.HomePage HomePage.java39 - On Home Page
+20230618 09:14:25 INFO  [main] base.BaseTest BaseTest.java136 - Input text cleared
+20230618 09:14:25 INFO  [main] base.BaseTest BaseTest.java136 - Input text cleared
+20230618 09:14:26 INFO  [main] pages.HomePage HomePage.java439 - Test 31 passed, contact creation cancelled
+20230618 09:23:56 INFO  [main] pages.LoginPage LoginPage.java41 - SalesForce Login page opened
+20230618 09:23:56 INFO  [main] base.BaseTest BaseTest.java136 - Input text cleared
+20230618 09:23:56 INFO  [main] base.BaseTest BaseTest.java136 - Input text cleared
+20230618 09:23:56 INFO  [main] base.BaseTest BaseTest.java136 - Input text cleared
+20230618 09:24:00 INFO  [main] tests.LoginTest LoginTest.java67 - Login to salesforce successful
+20230618 09:24:00 INFO  [main] pages.HomePage HomePage.java39 - On Home Page
+20230618 09:24:10 INFO  [main] base.BaseTest BaseTest.java136 - Input text cleared
+20230618 09:24:10 INFO  [main] base.BaseTest BaseTest.java136 - Input text cleared
+20230618 09:24:11 INFO  [main] pages.HomePage HomePage.java464 - New Contact Created
+20230618 09:51:34 INFO  [main] pages.LoginPage LoginPage.java41 - SalesForce Login page opened
+20230618 09:51:35 INFO  [main] base.BaseTest BaseTest.java136 - Input text cleared
+20230618 09:51:35 INFO  [main] base.BaseTest BaseTest.java136 - Input text cleared
+20230618 09:51:35 INFO  [main] base.BaseTest BaseTest.java136 - Input text cleared
+20230618 09:51:40 INFO  [main] tests.LoginTest LoginTest.java67 - Login to salesforce successful
+20230618 09:51:40 INFO  [main] pages.HomePage HomePage.java41 - On Home Page
+20230618 09:52:32 INFO  [main] pages.LoginPage LoginPage.java41 - SalesForce Login page opened
+20230618 09:52:33 INFO  [main] base.BaseTest BaseTest.java136 - Input text cleared
+20230618 09:52:33 INFO  [main] base.BaseTest BaseTest.java136 - Input text cleared
+20230618 09:52:33 INFO  [main] base.BaseTest BaseTest.java136 - Input text cleared
+20230618 09:52:38 INFO  [main] tests.LoginTest LoginTest.java67 - Login to salesforce successful
+20230618 09:52:38 INFO  [main] pages.HomePage HomePage.java41 - On Home Page
+20230618 09:53:03 INFO  [main] pages.LoginPage LoginPage.java41 - SalesForce Login page opened
+20230618 09:53:03 INFO  [main] base.BaseTest BaseTest.java136 - Input text cleared
+20230618 09:53:03 INFO  [main] base.BaseTest BaseTest.java136 - Input text cleared
+20230618 09:53:03 INFO  [main] base.BaseTest BaseTest.java136 - Input text cleared
+20230618 09:53:08 INFO  [main] tests.LoginTest LoginTest.java67 - Login to salesforce successful
+20230618 09:53:08 INFO  [main] pages.HomePage HomePage.java41 - On Home Page
+20230618 09:53:13 INFO  [main] pages.HomePage HomePage.java357 - Recently created contacts displayed
+20230618 09:53:15 INFO  [main] pages.LoginPage LoginPage.java41 - SalesForce Login page opened
+20230618 09:53:15 INFO  [main] base.BaseTest BaseTest.java136 - Input text cleared
+20230618 09:53:15 INFO  [main] base.BaseTest BaseTest.java136 - Input text cleared
+20230618 09:53:15 INFO  [main] base.BaseTest BaseTest.java136 - Input text cleared
+20230618 09:53:28 INFO  [main] pages.LoginPage LoginPage.java41 - SalesForce Login page opened
+20230618 09:53:29 INFO  [main] base.BaseTest BaseTest.java136 - Input text cleared
+20230618 09:53:29 INFO  [main] base.BaseTest BaseTest.java136 - Input text cleared
+20230618 09:53:29 INFO  [main] base.BaseTest BaseTest.java136 - Input text cleared
+20230618 09:53:34 INFO  [main] tests.LoginTest LoginTest.java67 - Login to salesforce successful
+20230618 09:53:34 INFO  [main] pages.HomePage HomePage.java41 - On Home Page
+20230618 09:53:55 INFO  [main] pages.LoginPage LoginPage.java41 - SalesForce Login page opened
+20230618 09:53:56 INFO  [main] base.BaseTest BaseTest.java136 - Input text cleared
+20230618 09:53:56 INFO  [main] base.BaseTest BaseTest.java136 - Input text cleared
+20230618 09:53:56 INFO  [main] base.BaseTest BaseTest.java136 - Input text cleared
+20230618 09:54:01 INFO  [main] tests.LoginTest LoginTest.java67 - Login to salesforce successful
+20230618 09:54:01 INFO  [main] pages.HomePage HomePage.java41 - On Home Page
+20230618 09:54:01 INFO  [main] base.BaseTest BaseTest.java162 - Element not clickable
+20230618 09:54:22 INFO  [main] pages.LoginPage LoginPage.java41 - SalesForce Login page opened
+20230618 09:54:22 INFO  [main] base.BaseTest BaseTest.java136 - Input text cleared
+20230618 09:54:22 INFO  [main] base.BaseTest BaseTest.java136 - Input text cleared
+20230618 09:54:22 INFO  [main] base.BaseTest BaseTest.java136 - Input text cleared
+20230618 09:54:27 INFO  [main] tests.LoginTest LoginTest.java67 - Login to salesforce successful
+20230618 09:54:27 INFO  [main] pages.HomePage HomePage.java41 - On Home Page
+20230618 09:54:28 INFO  [main] base.BaseTest BaseTest.java162 - Element not clickable
+20230618 09:57:43 INFO  [main] pages.LoginPage LoginPage.java41 - SalesForce Login page opened
+20230618 09:57:43 INFO  [main] base.BaseTest BaseTest.java136 - Input text cleared
+20230618 09:57:44 INFO  [main] base.BaseTest BaseTest.java136 - Input text cleared
+20230618 09:57:44 INFO  [main] base.BaseTest BaseTest.java136 - Input text cleared
+20230618 09:57:48 INFO  [main] tests.LoginTest LoginTest.java67 - Login to salesforce successful
+20230618 09:57:48 INFO  [main] pages.HomePage HomePage.java41 - On Home Page
+20230618 09:57:49 INFO  [main] base.BaseTest BaseTest.java162 - Element not clickable
+20230618 09:59:05 INFO  [main] pages.LoginPage LoginPage.java41 - SalesForce Login page opened
+20230618 09:59:05 INFO  [main] base.BaseTest BaseTest.java136 - Input text cleared
+20230618 09:59:05 INFO  [main] base.BaseTest BaseTest.java136 - Input text cleared
+20230618 09:59:06 INFO  [main] base.BaseTest BaseTest.java136 - Input text cleared
+20230618 09:59:10 INFO  [main] tests.LoginTest LoginTest.java67 - Login to salesforce successful
+20230618 09:59:10 INFO  [main] pages.HomePage HomePage.java41 - On Home Page
+20230618 09:59:11 INFO  [main] base.BaseTest BaseTest.java162 - Element not clickable
+20230618 09:59:41 INFO  [main] pages.LoginPage LoginPage.java41 - SalesForce Login page opened
+20230618 09:59:41 INFO  [main] base.BaseTest BaseTest.java136 - Input text cleared
+20230618 09:59:42 INFO  [main] base.BaseTest BaseTest.java136 - Input text cleared
+20230618 09:59:42 INFO  [main] base.BaseTest BaseTest.java136 - Input text cleared
+20230618 09:59:46 INFO  [main] tests.LoginTest LoginTest.java67 - Login to salesforce successful
+20230618 09:59:46 INFO  [main] pages.HomePage HomePage.java41 - On Home Page
+20230618 10:02:52 INFO  [main] pages.LoginPage LoginPage.java41 - SalesForce Login page opened
+20230618 10:02:52 INFO  [main] base.BaseTest BaseTest.java136 - Input text cleared
+20230618 10:02:53 INFO  [main] base.BaseTest BaseTest.java136 - Input text cleared
+20230618 10:02:53 INFO  [main] base.BaseTest BaseTest.java136 - Input text cleared
+20230618 10:02:58 INFO  [main] tests.LoginTest LoginTest.java67 - Login to salesforce successful
+20230618 10:02:58 INFO  [main] pages.HomePage HomePage.java41 - On Home Page
+20230618 10:15:29 INFO  [main] pages.LoginPage LoginPage.java41 - SalesForce Login page opened
+20230618 10:15:29 INFO  [main] base.BaseTest BaseTest.java136 - Input text cleared
+20230618 10:15:29 INFO  [main] base.BaseTest BaseTest.java136 - Input text cleared
+20230618 10:15:29 INFO  [main] base.BaseTest BaseTest.java136 - Input text cleared
+20230618 10:15:34 INFO  [main] tests.LoginTest LoginTest.java67 - Login to salesforce successful
+20230618 10:15:34 INFO  [main] pages.HomePage HomePage.java41 - On Home Page
+20230618 10:15:43 INFO  [main] base.BaseTest BaseTest.java136 - Input text cleared
+20230618 10:16:11 INFO  [main] pages.LoginPage LoginPage.java41 - SalesForce Login page opened
+20230618 10:16:12 INFO  [main] base.BaseTest BaseTest.java136 - Input text cleared
+20230618 10:16:12 INFO  [main] base.BaseTest BaseTest.java136 - Input text cleared
+20230618 10:16:12 INFO  [main] base.BaseTest BaseTest.java136 - Input text cleared
+20230618 10:16:17 INFO  [main] tests.LoginTest LoginTest.java67 - Login to salesforce successful
+20230618 10:16:17 INFO  [main] pages.HomePage HomePage.java41 - On Home Page
+20230618 10:16:25 INFO  [main] base.BaseTest BaseTest.java136 - Input text cleared
+20230618 10:18:46 INFO  [main] pages.LoginPage LoginPage.java41 - SalesForce Login page opened
+20230618 10:18:47 INFO  [main] base.BaseTest BaseTest.java136 - Input text cleared
+20230618 10:18:47 INFO  [main] base.BaseTest BaseTest.java136 - Input text cleared
+20230618 10:18:47 INFO  [main] base.BaseTest BaseTest.java136 - Input text cleared
+20230618 10:19:16 INFO  [main] pages.LoginPage LoginPage.java41 - SalesForce Login page opened
+20230618 10:19:17 INFO  [main] base.BaseTest BaseTest.java136 - Input text cleared
+20230618 10:19:17 INFO  [main] base.BaseTest BaseTest.java136 - Input text cleared
+20230618 10:19:17 INFO  [main] base.BaseTest BaseTest.java136 - Input text cleared
+20230618 10:19:21 INFO  [main] tests.LoginTest LoginTest.java67 - Login to salesforce successful
+20230618 10:19:21 INFO  [main] pages.HomePage HomePage.java41 - On Home Page
+20230618 10:19:30 INFO  [main] base.BaseTest BaseTest.java136 - Input text cleared
+20230618 10:54:32 INFO  [main] pages.LoginPage LoginPage.java41 - SalesForce Login page opened
+20230618 10:54:33 INFO  [main] base.BaseTest BaseTest.java136 - Input text cleared
+20230618 10:54:33 INFO  [main] base.BaseTest BaseTest.java136 - Input text cleared
+20230618 10:54:33 INFO  [main] base.BaseTest BaseTest.java136 - Input text cleared
+20230618 10:54:38 INFO  [main] tests.LoginTest LoginTest.java67 - Login to salesforce successful
+20230618 10:54:38 INFO  [main] pages.HomePage HomePage.java41 - On Home Page
+20230618 10:54:43 INFO  [main] base.BaseTest BaseTest.java162 - Element not clickable
+20230618 10:55:42 INFO  [main] pages.LoginPage LoginPage.java41 - SalesForce Login page opened
+20230618 10:55:42 INFO  [main] base.BaseTest BaseTest.java136 - Input text cleared
+20230618 10:55:42 INFO  [main] base.BaseTest BaseTest.java136 - Input text cleared
+20230618 10:55:42 INFO  [main] base.BaseTest BaseTest.java136 - Input text cleared
+20230618 10:55:47 INFO  [main] tests.LoginTest LoginTest.java67 - Login to salesforce successful
+20230618 10:55:47 INFO  [main] pages.HomePage HomePage.java41 - On Home Page
+20230618 10:57:15 INFO  [main] pages.LoginPage LoginPage.java41 - SalesForce Login page opened
+20230618 10:57:16 INFO  [main] base.BaseTest BaseTest.java136 - Input text cleared
+20230618 10:57:16 INFO  [main] base.BaseTest BaseTest.java136 - Input text cleared
+20230618 10:57:16 INFO  [main] base.BaseTest BaseTest.java136 - Input text cleared
+20230618 10:57:21 INFO  [main] tests.LoginTest LoginTest.java67 - Login to salesforce successful
+20230618 10:57:21 INFO  [main] pages.HomePage HomePage.java41 - On Home Page
+20230618 10:58:11 INFO  [main] pages.LoginPage LoginPage.java41 - SalesForce Login page opened
+20230618 10:58:11 INFO  [main] base.BaseTest BaseTest.java136 - Input text cleared
+20230618 10:58:11 INFO  [main] base.BaseTest BaseTest.java136 - Input text cleared
+20230618 10:58:11 INFO  [main] base.BaseTest BaseTest.java136 - Input text cleared
+20230618 10:58:16 INFO  [main] tests.LoginTest LoginTest.java67 - Login to salesforce successful
+20230618 10:58:16 INFO  [main] pages.HomePage HomePage.java41 - On Home Page
+20230618 10:59:03 INFO  [main] pages.LoginPage LoginPage.java41 - SalesForce Login page opened
+20230618 10:59:03 INFO  [main] base.BaseTest BaseTest.java136 - Input text cleared
+20230618 10:59:03 INFO  [main] base.BaseTest BaseTest.java136 - Input text cleared
+20230618 10:59:03 INFO  [main] base.BaseTest BaseTest.java136 - Input text cleared
+20230618 10:59:08 INFO  [main] tests.LoginTest LoginTest.java67 - Login to salesforce successful
+20230618 10:59:08 INFO  [main] pages.HomePage HomePage.java41 - On Home Page
+20230618 15:50:48 INFO  [main] pages.LoginPage LoginPage.java41 - SalesForce Login page opened
+20230618 15:50:48 INFO  [main] base.BaseTest BaseTest.java136 - Input text cleared
+20230618 15:50:49 INFO  [main] base.BaseTest BaseTest.java136 - Input text cleared
+20230618 15:50:49 INFO  [main] base.BaseTest BaseTest.java136 - Input text cleared
+20230618 15:50:55 INFO  [main] tests.LoginTest LoginTest.java67 - Login to salesforce successful
+20230618 15:50:55 INFO  [main] pages.HomePage HomePage.java41 - On Home Page
+20230618 15:50:59 INFO  [main] base.BaseTest BaseTest.java162 - Element not clickable
+20230618 15:51:24 INFO  [main] pages.LoginPage LoginPage.java41 - SalesForce Login page opened
+20230618 15:51:24 INFO  [main] base.BaseTest BaseTest.java136 - Input text cleared
+20230618 15:51:25 INFO  [main] base.BaseTest BaseTest.java136 - Input text cleared
+20230618 15:51:25 INFO  [main] base.BaseTest BaseTest.java136 - Input text cleared
+20230618 15:51:30 INFO  [main] tests.LoginTest LoginTest.java67 - Login to salesforce successful
+20230618 15:51:30 INFO  [main] pages.HomePage HomePage.java41 - On Home Page
+20230618 15:52:46 INFO  [main] pages.LoginPage LoginPage.java41 - SalesForce Login page opened
+20230618 15:52:46 INFO  [main] base.BaseTest BaseTest.java136 - Input text cleared
+20230618 15:52:47 INFO  [main] base.BaseTest BaseTest.java136 - Input text cleared
+20230618 15:52:47 INFO  [main] base.BaseTest BaseTest.java136 - Input text cleared
+20230618 15:52:52 INFO  [main] tests.LoginTest LoginTest.java67 - Login to salesforce successful
+20230618 15:52:52 INFO  [main] pages.HomePage HomePage.java41 - On Home Page
+20230618 15:53:02 INFO  [main] pages.LoginPage LoginPage.java41 - SalesForce Login page opened
+20230618 15:53:02 INFO  [main] base.BaseTest BaseTest.java136 - Input text cleared
+20230618 15:53:02 INFO  [main] base.BaseTest BaseTest.java136 - Input text cleared
+20230618 15:53:02 INFO  [main] base.BaseTest BaseTest.java136 - Input text cleared
+20230618 15:53:04 INFO  [main] pages.HomePage HomePage.java585 - Test case 35 passed, Tab is removed from Home Page
+20230618 16:16:11 INFO  [main] pages.LoginPage LoginPage.java41 - SalesForce Login page opened
+20230618 16:16:11 INFO  [main] base.BaseTest BaseTest.java136 - Input text cleared
+20230618 16:16:11 INFO  [main] base.BaseTest BaseTest.java136 - Input text cleared
+20230618 16:16:11 INFO  [main] base.BaseTest BaseTest.java136 - Input text cleared
+20230618 16:16:16 INFO  [main] tests.LoginTest LoginTest.java67 - Login to salesforce successful
+20230618 16:16:16 INFO  [main] pages.HomePage HomePage.java42 - On Home Page
+20230618 16:16:22 INFO  [main] base.BaseTest BaseTest.java162 - Element not clickable
+20230618 16:16:54 INFO  [main] pages.LoginPage LoginPage.java41 - SalesForce Login page opened
+20230618 16:16:54 INFO  [main] base.BaseTest BaseTest.java136 - Input text cleared
+20230618 16:16:55 INFO  [main] base.BaseTest BaseTest.java136 - Input text cleared
+20230618 16:16:55 INFO  [main] base.BaseTest BaseTest.java136 - Input text cleared
+20230618 16:17:00 INFO  [main] tests.LoginTest LoginTest.java67 - Login to salesforce successful
+20230618 16:17:00 INFO  [main] pages.HomePage HomePage.java42 - On Home Page
+20230618 16:17:06 INFO  [main] base.BaseTest BaseTest.java162 - Element not clickable
+20230618 16:18:46 INFO  [main] pages.LoginPage LoginPage.java41 - SalesForce Login page opened
+20230618 16:18:46 INFO  [main] base.BaseTest BaseTest.java136 - Input text cleared
+20230618 16:18:46 INFO  [main] base.BaseTest BaseTest.java136 - Input text cleared
+20230618 16:18:46 INFO  [main] base.BaseTest BaseTest.java136 - Input text cleared
+20230618 16:18:51 INFO  [main] tests.LoginTest LoginTest.java67 - Login to salesforce successful
+20230618 16:18:51 INFO  [main] pages.HomePage HomePage.java42 - On Home Page
+20230618 16:19:01 INFO  [main] base.BaseTest BaseTest.java162 - Element not clickable
+20230618 16:21:10 INFO  [main] pages.LoginPage LoginPage.java41 - SalesForce Login page opened
+20230618 16:21:10 INFO  [main] base.BaseTest BaseTest.java136 - Input text cleared
+20230618 16:21:11 INFO  [main] base.BaseTest BaseTest.java136 - Input text cleared
+20230618 16:21:11 INFO  [main] base.BaseTest BaseTest.java136 - Input text cleared
+20230618 16:21:16 INFO  [main] tests.LoginTest LoginTest.java67 - Login to salesforce successful
+20230618 16:21:16 INFO  [main] pages.HomePage HomePage.java42 - On Home Page
+20230618 16:25:29 INFO  [main] pages.LoginPage LoginPage.java41 - SalesForce Login page opened
+20230618 16:25:29 INFO  [main] base.BaseTest BaseTest.java136 - Input text cleared
+20230618 16:25:29 INFO  [main] base.BaseTest BaseTest.java136 - Input text cleared
+20230618 16:25:30 INFO  [main] base.BaseTest BaseTest.java136 - Input text cleared
+20230618 16:25:35 INFO  [main] tests.LoginTest LoginTest.java67 - Login to salesforce successful
+20230618 16:25:35 INFO  [main] pages.HomePage HomePage.java42 - On Home Page
+20230618 16:28:40 INFO  [main] pages.LoginPage LoginPage.java41 - SalesForce Login page opened
+20230618 16:28:40 INFO  [main] base.BaseTest BaseTest.java136 - Input text cleared
+20230618 16:28:40 INFO  [main] base.BaseTest BaseTest.java136 - Input text cleared
+20230618 16:28:41 INFO  [main] base.BaseTest BaseTest.java136 - Input text cleared
+20230618 16:28:46 INFO  [main] tests.LoginTest LoginTest.java67 - Login to salesforce successful
+20230618 16:28:46 INFO  [main] pages.HomePage HomePage.java42 - On Home Page
+20230618 16:30:05 INFO  [main] pages.LoginPage LoginPage.java41 - SalesForce Login page opened
+20230618 16:30:05 INFO  [main] base.BaseTest BaseTest.java136 - Input text cleared
+20230618 16:30:06 INFO  [main] base.BaseTest BaseTest.java136 - Input text cleared
+20230618 16:30:06 INFO  [main] base.BaseTest BaseTest.java136 - Input text cleared
+20230618 16:30:10 INFO  [main] tests.LoginTest LoginTest.java67 - Login to salesforce successful
+20230618 16:30:10 INFO  [main] pages.HomePage HomePage.java42 - On Home Page
+20230618 16:39:08 INFO  [main] pages.LoginPage LoginPage.java41 - SalesForce Login page opened
+20230618 16:39:08 INFO  [main] base.BaseTest BaseTest.java136 - Input text cleared
+20230618 16:39:09 INFO  [main] base.BaseTest BaseTest.java136 - Input text cleared
+20230618 16:39:09 INFO  [main] base.BaseTest BaseTest.java136 - Input text cleared
+20230618 16:39:14 INFO  [main] tests.LoginTest LoginTest.java67 - Login to salesforce successful
+20230618 16:39:14 INFO  [main] pages.HomePage HomePage.java42 - On Home Page
+20230618 16:41:38 INFO  [main] pages.LoginPage LoginPage.java41 - SalesForce Login page opened
+20230618 16:41:38 INFO  [main] base.BaseTest BaseTest.java136 - Input text cleared
+20230618 16:41:39 INFO  [main] base.BaseTest BaseTest.java136 - Input text cleared
+20230618 16:41:39 INFO  [main] base.BaseTest BaseTest.java136 - Input text cleared
+20230618 16:41:43 INFO  [main] tests.LoginTest LoginTest.java67 - Login to salesforce successful
+20230618 16:41:43 INFO  [main] pages.HomePage HomePage.java42 - On Home Page
+20230618 16:52:09 INFO  [main] pages.LoginPage LoginPage.java41 - SalesForce Login page opened
+20230618 16:52:09 INFO  [main] base.BaseTest BaseTest.java136 - Input text cleared
+20230618 16:52:10 INFO  [main] base.BaseTest BaseTest.java136 - Input text cleared
+20230618 16:52:10 INFO  [main] base.BaseTest BaseTest.java136 - Input text cleared
+20230618 16:52:15 INFO  [main] tests.LoginTest LoginTest.java67 - Login to salesforce successful
+20230618 16:52:15 INFO  [main] pages.HomePage HomePage.java42 - On Home Page
+20230618 16:53:05 INFO  [main] pages.LoginPage LoginPage.java41 - SalesForce Login page opened
+20230618 16:53:05 INFO  [main] base.BaseTest BaseTest.java136 - Input text cleared
+20230618 16:53:06 INFO  [main] base.BaseTest BaseTest.java136 - Input text cleared
+20230618 16:53:06 INFO  [main] base.BaseTest BaseTest.java136 - Input text cleared
+20230618 16:53:11 INFO  [main] tests.LoginTest LoginTest.java67 - Login to salesforce successful
+20230618 16:53:11 INFO  [main] pages.HomePage HomePage.java42 - On Home Page
+20230618 16:56:39 INFO  [main] pages.LoginPage LoginPage.java41 - SalesForce Login page opened
+20230618 16:56:39 INFO  [main] base.BaseTest BaseTest.java136 - Input text cleared
+20230618 16:56:40 INFO  [main] base.BaseTest BaseTest.java136 - Input text cleared
+20230618 16:56:40 INFO  [main] base.BaseTest BaseTest.java136 - Input text cleared
+20230618 16:56:45 INFO  [main] tests.LoginTest LoginTest.java67 - Login to salesforce successful
+20230618 16:56:45 INFO  [main] pages.HomePage HomePage.java42 - On Home Page
+20230618 16:59:27 INFO  [main] pages.LoginPage LoginPage.java41 - SalesForce Login page opened
+20230618 16:59:27 INFO  [main] base.BaseTest BaseTest.java136 - Input text cleared
+20230618 16:59:28 INFO  [main] base.BaseTest BaseTest.java136 - Input text cleared
+20230618 16:59:28 INFO  [main] base.BaseTest BaseTest.java136 - Input text cleared
+20230618 16:59:33 INFO  [main] tests.LoginTest LoginTest.java67 - Login to salesforce successful
+20230618 16:59:33 INFO  [main] pages.HomePage HomePage.java42 - On Home Page
+20230618 16:59:53 INFO  [main] pages.HomePage HomePage.java647 - Test case 36 failed, cannot see Other Event
+20230618 17:40:28 INFO  [main] pages.LoginPage LoginPage.java41 - SalesForce Login page opened
+20230618 17:40:29 INFO  [main] base.BaseTest BaseTest.java136 - Input text cleared
+20230618 17:40:29 INFO  [main] base.BaseTest BaseTest.java136 - Input text cleared
+20230618 17:40:29 INFO  [main] base.BaseTest BaseTest.java136 - Input text cleared
+20230618 17:40:45 INFO  [main] pages.LoginPage LoginPage.java41 - SalesForce Login page opened
+20230618 17:40:45 INFO  [main] base.BaseTest BaseTest.java136 - Input text cleared
+20230618 17:40:45 INFO  [main] base.BaseTest BaseTest.java136 - Input text cleared
+20230618 17:40:45 INFO  [main] base.BaseTest BaseTest.java136 - Input text cleared
+20230618 17:40:50 INFO  [main] tests.LoginTest LoginTest.java67 - Login to salesforce successful
+20230618 17:40:50 INFO  [main] pages.HomePage HomePage.java42 - On Home Page
+20230618 17:43:43 INFO  [main] pages.LoginPage LoginPage.java41 - SalesForce Login page opened
+20230618 17:43:43 INFO  [main] base.BaseTest BaseTest.java136 - Input text cleared
+20230618 17:43:43 INFO  [main] base.BaseTest BaseTest.java136 - Input text cleared
+20230618 17:43:43 INFO  [main] base.BaseTest BaseTest.java136 - Input text cleared
+20230618 17:43:48 INFO  [main] tests.LoginTest LoginTest.java67 - Login to salesforce successful
+20230618 17:43:48 INFO  [main] pages.HomePage HomePage.java42 - On Home Page
+20230618 17:48:24 INFO  [main] pages.LoginPage LoginPage.java41 - SalesForce Login page opened
+20230618 17:48:25 INFO  [main] base.BaseTest BaseTest.java136 - Input text cleared
+20230618 17:48:25 INFO  [main] base.BaseTest BaseTest.java136 - Input text cleared
+20230618 17:48:25 INFO  [main] base.BaseTest BaseTest.java136 - Input text cleared
+20230618 17:48:29 INFO  [main] tests.LoginTest LoginTest.java67 - Login to salesforce successful
+20230618 17:48:29 INFO  [main] pages.HomePage HomePage.java42 - On Home Page
+20230618 17:59:08 INFO  [main] pages.LoginPage LoginPage.java41 - SalesForce Login page opened
+20230618 17:59:08 INFO  [main] base.BaseTest BaseTest.java136 - Input text cleared
+20230618 17:59:08 INFO  [main] base.BaseTest BaseTest.java136 - Input text cleared
+20230618 17:59:08 INFO  [main] base.BaseTest BaseTest.java136 - Input text cleared
+20230618 17:59:12 INFO  [main] tests.LoginTest LoginTest.java67 - Login to salesforce successful
+20230618 17:59:12 INFO  [main] pages.HomePage HomePage.java42 - On Home Page
+20230618 18:00:12 INFO  [main] pages.LoginPage LoginPage.java41 - SalesForce Login page opened
+20230618 18:00:12 INFO  [main] base.BaseTest BaseTest.java136 - Input text cleared
+20230618 18:00:12 INFO  [main] base.BaseTest BaseTest.java136 - Input text cleared
+20230618 18:00:12 INFO  [main] base.BaseTest BaseTest.java136 - Input text cleared
+20230618 18:00:28 INFO  [main] pages.LoginPage LoginPage.java41 - SalesForce Login page opened
+20230618 18:00:28 INFO  [main] base.BaseTest BaseTest.java136 - Input text cleared
+20230618 18:00:28 INFO  [main] base.BaseTest BaseTest.java136 - Input text cleared
+20230618 18:00:28 INFO  [main] base.BaseTest BaseTest.java136 - Input text cleared
+20230618 18:00:32 INFO  [main] tests.LoginTest LoginTest.java67 - Login to salesforce successful
+20230618 18:00:32 INFO  [main] pages.HomePage HomePage.java42 - On Home Page
+20230618 18:14:38 INFO  [main] pages.LoginPage LoginPage.java41 - SalesForce Login page opened
+20230618 18:14:38 INFO  [main] base.BaseTest BaseTest.java136 - Input text cleared
+20230618 18:14:38 INFO  [main] base.BaseTest BaseTest.java136 - Input text cleared
+20230618 18:14:38 INFO  [main] base.BaseTest BaseTest.java136 - Input text cleared
+20230618 18:14:43 INFO  [main] tests.LoginTest LoginTest.java67 - Login to salesforce successful
+20230618 18:14:43 INFO  [main] pages.HomePage HomePage.java43 - On Home Page
+20230618 18:14:57 INFO  [main] base.BaseTest BaseTest.java136 - Input text cleared
+20230618 18:33:02 INFO  [main] pages.LoginPage LoginPage.java41 - SalesForce Login page opened
+20230618 18:33:03 INFO  [main] base.BaseTest BaseTest.java136 - Input text cleared
+20230618 18:33:03 INFO  [main] base.BaseTest BaseTest.java136 - Input text cleared
+20230618 18:33:03 INFO  [main] base.BaseTest BaseTest.java136 - Input text cleared
+20230618 18:33:08 INFO  [main] tests.LoginTest LoginTest.java67 - Login to salesforce successful
+20230618 18:33:08 INFO  [main] pages.HomePage HomePage.java43 - On Home Page
+20230618 18:33:22 INFO  [main] base.BaseTest BaseTest.java136 - Input text cleared
+20230618 18:34:31 INFO  [main] pages.LoginPage LoginPage.java41 - SalesForce Login page opened
+20230618 18:34:31 INFO  [main] base.BaseTest BaseTest.java136 - Input text cleared
+20230618 18:34:32 INFO  [main] base.BaseTest BaseTest.java136 - Input text cleared
+20230618 18:34:33 INFO  [main] base.BaseTest BaseTest.java136 - Input text cleared
+20230618 18:34:38 INFO  [main] tests.LoginTest LoginTest.java67 - Login to salesforce successful
+20230618 18:34:38 INFO  [main] pages.HomePage HomePage.java43 - On Home Page
+20230618 18:34:53 INFO  [main] base.BaseTest BaseTest.java136 - Input text cleared
+20230618 18:38:11 INFO  [main] pages.LoginPage LoginPage.java41 - SalesForce Login page opened
+20230618 18:38:11 INFO  [main] base.BaseTest BaseTest.java136 - Input text cleared
+20230618 18:38:12 INFO  [main] base.BaseTest BaseTest.java136 - Input text cleared
+20230618 18:38:12 INFO  [main] base.BaseTest BaseTest.java136 - Input text cleared
+20230618 18:38:16 INFO  [main] tests.LoginTest LoginTest.java67 - Login to salesforce successful
+20230618 18:38:16 INFO  [main] pages.HomePage HomePage.java43 - On Home Page
+20230618 18:38:31 INFO  [main] base.BaseTest BaseTest.java136 - Input text cleared
+20230618 18:39:56 INFO  [main] pages.LoginPage LoginPage.java41 - SalesForce Login page opened
+20230618 18:39:56 INFO  [main] base.BaseTest BaseTest.java136 - Input text cleared
+20230618 18:39:57 INFO  [main] base.BaseTest BaseTest.java136 - Input text cleared
+20230618 18:39:57 INFO  [main] base.BaseTest BaseTest.java136 - Input text cleared
+20230618 18:40:02 INFO  [main] tests.LoginTest LoginTest.java67 - Login to salesforce successful
+20230618 18:40:02 INFO  [main] pages.HomePage HomePage.java43 - On Home Page
+20230618 18:40:19 INFO  [main] base.BaseTest BaseTest.java136 - Input text cleared
+20230618 18:40:55 INFO  [main] pages.LoginPage LoginPage.java41 - SalesForce Login page opened
+20230618 18:40:55 INFO  [main] base.BaseTest BaseTest.java136 - Input text cleared
+20230618 18:40:55 INFO  [main] base.BaseTest BaseTest.java136 - Input text cleared
+20230618 18:40:55 INFO  [main] base.BaseTest BaseTest.java136 - Input text cleared
+20230618 18:41:00 INFO  [main] tests.LoginTest LoginTest.java67 - Login to salesforce successful
+20230618 18:41:00 INFO  [main] pages.HomePage HomePage.java43 - On Home Page
+20230618 18:42:14 INFO  [main] base.BaseTest BaseTest.java136 - Input text cleared
+20230618 18:44:53 INFO  [main] pages.LoginPage LoginPage.java41 - SalesForce Login page opened
+20230618 18:44:53 INFO  [main] base.BaseTest BaseTest.java136 - Input text cleared
+20230618 18:44:53 INFO  [main] base.BaseTest BaseTest.java136 - Input text cleared
+20230618 18:44:54 INFO  [main] base.BaseTest BaseTest.java136 - Input text cleared
+20230618 18:44:59 INFO  [main] tests.LoginTest LoginTest.java67 - Login to salesforce successful
+20230618 18:44:59 INFO  [main] pages.HomePage HomePage.java45 - On Home Page
+20230618 18:45:14 INFO  [main] base.BaseTest BaseTest.java136 - Input text cleared
+20230618 18:45:41 INFO  [main] pages.LoginPage LoginPage.java41 - SalesForce Login page opened
+20230618 18:45:41 INFO  [main] base.BaseTest BaseTest.java136 - Input text cleared
+20230618 18:45:42 INFO  [main] base.BaseTest BaseTest.java136 - Input text cleared
+20230618 18:45:42 INFO  [main] base.BaseTest BaseTest.java136 - Input text cleared
+20230618 18:45:47 INFO  [main] tests.LoginTest LoginTest.java67 - Login to salesforce successful
+20230618 18:45:47 INFO  [main] pages.HomePage HomePage.java45 - On Home Page
+20230618 18:46:11 INFO  [main] base.BaseTest BaseTest.java136 - Input text cleared
+20230618 18:50:06 INFO  [main] pages.LoginPage LoginPage.java41 - SalesForce Login page opened
+20230618 18:50:06 INFO  [main] base.BaseTest BaseTest.java136 - Input text cleared
+20230618 18:50:07 INFO  [main] base.BaseTest BaseTest.java136 - Input text cleared
+20230618 18:50:07 INFO  [main] base.BaseTest BaseTest.java136 - Input text cleared
+20230618 18:50:12 INFO  [main] tests.LoginTest LoginTest.java67 - Login to salesforce successful
+20230618 18:50:12 INFO  [main] pages.HomePage HomePage.java45 - On Home Page
+20230618 18:50:26 INFO  [main] base.BaseTest BaseTest.java136 - Input text cleared
+20230618 18:54:51 INFO  [main] pages.LoginPage LoginPage.java41 - SalesForce Login page opened
+20230618 18:54:52 INFO  [main] base.BaseTest BaseTest.java136 - Input text cleared
+20230618 18:54:52 INFO  [main] base.BaseTest BaseTest.java136 - Input text cleared
+20230618 18:54:52 INFO  [main] base.BaseTest BaseTest.java136 - Input text cleared
+20230618 18:54:59 INFO  [main] tests.LoginTest LoginTest.java67 - Login to salesforce successful
+20230618 18:54:59 INFO  [main] pages.HomePage HomePage.java45 - On Home Page
+20230618 18:55:14 INFO  [main] base.BaseTest BaseTest.java136 - Input text cleared
+20230618 18:56:15 INFO  [main] pages.LoginPage LoginPage.java41 - SalesForce Login page opened
+20230618 18:56:15 INFO  [main] base.BaseTest BaseTest.java136 - Input text cleared
+20230618 18:56:16 INFO  [main] base.BaseTest BaseTest.java136 - Input text cleared
+20230618 18:56:16 INFO  [main] base.BaseTest BaseTest.java136 - Input text cleared
+20230618 18:56:21 INFO  [main] tests.LoginTest LoginTest.java67 - Login to salesforce successful
+20230618 18:56:21 INFO  [main] pages.HomePage HomePage.java45 - On Home Page
+20230618 18:56:42 INFO  [main] pages.HomePage HomePage.java651 - Test case 36 failed, cannot see Other Event
+20230618 18:56:53 INFO  [main] pages.LoginPage LoginPage.java41 - SalesForce Login page opened
+20230618 18:56:53 INFO  [main] base.BaseTest BaseTest.java136 - Input text cleared
+20230618 18:56:54 INFO  [main] base.BaseTest BaseTest.java136 - Input text cleared
+20230618 18:56:54 INFO  [main] base.BaseTest BaseTest.java136 - Input text cleared
+20230618 18:56:58 INFO  [main] tests.LoginTest LoginTest.java67 - Login to salesforce successful
+20230618 18:56:58 INFO  [main] pages.HomePage HomePage.java45 - On Home Page
+20230618 18:57:13 INFO  [main] base.BaseTest BaseTest.java136 - Input text cleared
+20230618 19:01:05 INFO  [main] pages.LoginPage LoginPage.java41 - SalesForce Login page opened
+20230618 19:01:05 INFO  [main] base.BaseTest BaseTest.java136 - Input text cleared
+20230618 19:01:06 INFO  [main] base.BaseTest BaseTest.java136 - Input text cleared
+20230618 19:01:06 INFO  [main] base.BaseTest BaseTest.java136 - Input text cleared
+20230618 19:01:35 INFO  [main] tests.LoginTest LoginTest.java67 - Login to salesforce successful
+20230618 19:01:35 INFO  [main] pages.HomePage HomePage.java45 - On Home Page
+20230618 19:01:50 INFO  [main] base.BaseTest BaseTest.java136 - Input text cleared
+20230618 19:05:39 INFO  [main] pages.LoginPage LoginPage.java41 - SalesForce Login page opened
+20230618 19:05:39 INFO  [main] base.BaseTest BaseTest.java136 - Input text cleared
+20230618 19:05:39 INFO  [main] base.BaseTest BaseTest.java136 - Input text cleared
+20230618 19:05:40 INFO  [main] base.BaseTest BaseTest.java136 - Input text cleared
+20230618 19:05:44 INFO  [main] tests.LoginTest LoginTest.java67 - Login to salesforce successful
+20230618 19:05:44 INFO  [main] pages.HomePage HomePage.java45 - On Home Page
+20230618 19:05:59 INFO  [main] base.BaseTest BaseTest.java136 - Input text cleared
+20230618 19:07:00 INFO  [main] pages.LoginPage LoginPage.java41 - SalesForce Login page opened
+20230618 19:07:00 INFO  [main] base.BaseTest BaseTest.java136 - Input text cleared
+20230618 19:07:00 INFO  [main] base.BaseTest BaseTest.java136 - Input text cleared
+20230618 19:07:01 INFO  [main] base.BaseTest BaseTest.java136 - Input text cleared
+20230618 19:07:06 INFO  [main] tests.LoginTest LoginTest.java67 - Login to salesforce successful
+20230618 19:07:06 INFO  [main] pages.HomePage HomePage.java45 - On Home Page
+20230618 19:07:21 INFO  [main] base.BaseTest BaseTest.java136 - Input text cleared
+20230618 19:14:26 INFO  [main] pages.LoginPage LoginPage.java41 - SalesForce Login page opened
+20230618 19:14:26 INFO  [main] base.BaseTest BaseTest.java136 - Input text cleared
+20230618 19:14:26 INFO  [main] base.BaseTest BaseTest.java136 - Input text cleared
+20230618 19:14:27 INFO  [main] base.BaseTest BaseTest.java136 - Input text cleared
+20230618 19:14:32 INFO  [main] tests.LoginTest LoginTest.java67 - Login to salesforce successful
+20230618 19:14:32 INFO  [main] pages.HomePage HomePage.java45 - On Home Page
+20230618 19:14:46 INFO  [main] base.BaseTest BaseTest.java136 - Input text cleared
+20230618 19:18:23 INFO  [main] pages.LoginPage LoginPage.java41 - SalesForce Login page opened
+20230618 19:18:23 INFO  [main] base.BaseTest BaseTest.java136 - Input text cleared
+20230618 19:18:23 INFO  [main] base.BaseTest BaseTest.java136 - Input text cleared
+20230618 19:18:24 INFO  [main] base.BaseTest BaseTest.java136 - Input text cleared
+20230618 19:18:28 INFO  [main] tests.LoginTest LoginTest.java67 - Login to salesforce successful
+20230618 19:18:28 INFO  [main] pages.HomePage HomePage.java45 - On Home Page
+20230618 19:18:42 INFO  [main] base.BaseTest BaseTest.java136 - Input text cleared
+20230618 19:19:50 INFO  [main] pages.LoginPage LoginPage.java41 - SalesForce Login page opened
+20230618 19:19:51 INFO  [main] base.BaseTest BaseTest.java136 - Input text cleared
+20230618 19:19:51 INFO  [main] base.BaseTest BaseTest.java136 - Input text cleared
+20230618 19:19:51 INFO  [main] base.BaseTest BaseTest.java136 - Input text cleared
+20230618 19:19:57 INFO  [main] tests.LoginTest LoginTest.java67 - Login to salesforce successful
+20230618 19:19:57 INFO  [main] pages.HomePage HomePage.java45 - On Home Page
+20230618 19:20:11 INFO  [main] base.BaseTest BaseTest.java136 - Input text cleared
+20230618 19:25:05 INFO  [main] pages.LoginPage LoginPage.java41 - SalesForce Login page opened
+20230618 19:25:05 INFO  [main] base.BaseTest BaseTest.java136 - Input text cleared
+20230618 19:25:06 INFO  [main] base.BaseTest BaseTest.java136 - Input text cleared
+20230618 19:25:06 INFO  [main] base.BaseTest BaseTest.java136 - Input text cleared
+20230618 19:25:10 INFO  [main] tests.LoginTest LoginTest.java67 - Login to salesforce successful
+20230618 19:25:10 INFO  [main] pages.HomePage HomePage.java45 - On Home Page
+20230618 19:25:25 INFO  [main] base.BaseTest BaseTest.java136 - Input text cleared
+20230618 19:27:16 INFO  [main] pages.LoginPage LoginPage.java41 - SalesForce Login page opened
+20230618 19:27:16 INFO  [main] base.BaseTest BaseTest.java136 - Input text cleared
+20230618 19:27:16 INFO  [main] base.BaseTest BaseTest.java136 - Input text cleared
+20230618 19:27:16 INFO  [main] base.BaseTest BaseTest.java136 - Input text cleared
+20230618 19:27:21 INFO  [main] tests.LoginTest LoginTest.java67 - Login to salesforce successful
+20230618 19:27:21 INFO  [main] pages.HomePage HomePage.java45 - On Home Page
+20230618 19:27:35 INFO  [main] base.BaseTest BaseTest.java136 - Input text cleared
+20230618 19:32:30 INFO  [main] pages.LoginPage LoginPage.java41 - SalesForce Login page opened
+20230618 19:32:30 INFO  [main] base.BaseTest BaseTest.java136 - Input text cleared
+20230618 19:32:30 INFO  [main] base.BaseTest BaseTest.java136 - Input text cleared
+20230618 19:32:30 INFO  [main] base.BaseTest BaseTest.java136 - Input text cleared
+20230618 19:32:35 INFO  [main] tests.LoginTest LoginTest.java67 - Login to salesforce successful
+20230618 19:32:35 INFO  [main] pages.HomePage HomePage.java45 - On Home Page
+20230618 19:32:49 INFO  [main] base.BaseTest BaseTest.java136 - Input text cleared
+20230618 19:35:28 INFO  [main] pages.HomePage HomePage.java734 - Test Case 37 failed : Other CalendarEvents  NOT blocked for this and Next week
+20230618 19:39:52 INFO  [main] pages.LoginPage LoginPage.java41 - SalesForce Login page opened
+20230618 19:39:52 INFO  [main] base.BaseTest BaseTest.java136 - Input text cleared
+20230618 19:39:53 INFO  [main] base.BaseTest BaseTest.java136 - Input text cleared
+20230618 19:39:53 INFO  [main] base.BaseTest BaseTest.java136 - Input text cleared
+20230618 19:39:58 INFO  [main] tests.LoginTest LoginTest.java67 - Login to salesforce successful
+20230618 19:39:58 INFO  [main] pages.HomePage HomePage.java45 - On Home Page
+20230618 19:40:12 INFO  [main] base.BaseTest BaseTest.java136 - Input text cleared
+20230618 19:45:16 INFO  [main] pages.LoginPage LoginPage.java41 - SalesForce Login page opened
+20230618 19:45:16 INFO  [main] base.BaseTest BaseTest.java136 - Input text cleared
+20230618 19:45:17 INFO  [main] base.BaseTest BaseTest.java136 - Input text cleared
+20230618 19:45:17 INFO  [main] base.BaseTest BaseTest.java136 - Input text cleared
+20230618 19:45:24 INFO  [main] tests.LoginTest LoginTest.java67 - Login to salesforce successful
+20230618 19:45:24 INFO  [main] pages.HomePage HomePage.java45 - On Home Page
+20230618 19:45:41 INFO  [main] base.BaseTest BaseTest.java136 - Input text cleared
+20230618 19:46:52 INFO  [main] pages.LoginPage LoginPage.java41 - SalesForce Login page opened
+20230618 19:46:52 INFO  [main] base.BaseTest BaseTest.java136 - Input text cleared
+20230618 19:46:53 INFO  [main] base.BaseTest BaseTest.java136 - Input text cleared
+20230618 19:46:53 INFO  [main] base.BaseTest BaseTest.java136 - Input text cleared
+20230618 19:46:58 INFO  [main] tests.LoginTest LoginTest.java67 - Login to salesforce successful
+20230618 19:46:58 INFO  [main] pages.HomePage HomePage.java45 - On Home Page
+20230618 19:47:16 INFO  [main] base.BaseTest BaseTest.java136 - Input text cleared
+20230618 19:49:00 INFO  [main] pages.LoginPage LoginPage.java41 - SalesForce Login page opened
+20230618 19:49:00 INFO  [main] base.BaseTest BaseTest.java136 - Input text cleared
+20230618 19:49:01 INFO  [main] base.BaseTest BaseTest.java136 - Input text cleared
+20230618 19:49:01 INFO  [main] base.BaseTest BaseTest.java136 - Input text cleared
+20230618 19:49:07 INFO  [main] tests.LoginTest LoginTest.java67 - Login to salesforce successful
+20230618 19:49:07 INFO  [main] pages.HomePage HomePage.java45 - On Home Page
+20230618 19:49:48 INFO  [main] base.BaseTest BaseTest.java136 - Input text cleared
+20230618 19:53:18 INFO  [main] pages.LoginPage LoginPage.java41 - SalesForce Login page opened
+20230618 19:53:19 INFO  [main] base.BaseTest BaseTest.java136 - Input text cleared
+20230618 19:53:19 INFO  [main] base.BaseTest BaseTest.java136 - Input text cleared
+20230618 19:53:19 INFO  [main] base.BaseTest BaseTest.java136 - Input text cleared
+20230618 19:53:26 INFO  [main] tests.LoginTest LoginTest.java67 - Login to salesforce successful
+20230618 19:53:26 INFO  [main] pages.HomePage HomePage.java45 - On Home Page
+20230618 19:53:41 INFO  [main] base.BaseTest BaseTest.java136 - Input text cleared
+20230618 19:54:02 INFO  [main] pages.HomePage HomePage.java734 - Test Case 37 failed : Other CalendarEvents  NOT blocked for this and Next week
